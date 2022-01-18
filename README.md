@@ -12,9 +12,10 @@ Additionally, developers and other colonizing forces often do not consider natur
 
 Furthermore, traditional landscaping in public open spaces, such as lawns and invasive plant species may be more extractive than beneficial to the surrounding ecological environment.  Data that reflects where this type of landscaping exists can challenge more equitable use of the land for both humans and non-human stakeholders, such as community gardens or native plants and wildlife corridors (supporting bee populations, migratory birds, etc).   
 
-## Research Question: What can existing spatial data tell us about how much open space is there in LA county (or smaller subarea of LA County) and 1) how much of this open space is accessible for human use? And 2) how much of this open space is intended or sustain plant and animal habitats?
+## Research Question
+What can existing spatial data tell us about how much open space is there in LA county (or smaller subarea of LA County) and 1) how much of this open space is accessible for human use? And 2) how much of this open space is intended or sustain plant and animal habitats?
 
-Data sets: 
+## Data sets: 
 Publicly owned Parcels https://data.lacounty.gov/Parcel-/Assessor-Publicly-Owned-Parcels-Listing/a9jw-tqfp/data 
 A new map of Los Angeles’s publicly owned land created by the city controller is intended to get residents thinking about how to maximize the potential of these often underutilized properties. This data can provide a better understanding of where potential contested sites of land in the county are located (ie contested ownership, development of a vacant parcel, community garden, natural land, etc…)
 
@@ -35,8 +36,8 @@ This dataset was downloaded through Southern California Association of Governmen
 
 Per the manual for CPAD, “This edition of CPAD should be cited in any maps, reports, websites or other products as: “California Protected Areas Database (CPAD) – www.calands.org (June 2020)”
 
-Intended analysis and resulting visualizations
+## Intended analysis and resulting visualizations
 Urban development and social processes alter ecological properties that reciprocally influence human societies. A visual overlay of open space and the publilcy oned parcels can provide a better perspective for us to analyze land usage and accessibility in LA county. Acknowledging the impacts of settler colonialism and the depletion of native plants that served as primary food sources to Indigenous tribes. Potential visuals may also include TIGER/line shapefiles that reflect political boundaries, census statistical boundaries.
 
-Potential Insights 
+## Potential Insights 
  We hope to receive insight on land LA county’s land ownership, usge and ptentual development impacts. It is an opportunity for us to reframe planning; how can one reimagine a healthy relationship to land and build an urban environment through a holistic and racial just lens that preserves existing ecological environments and expands access to open space for marginalized communities? 
