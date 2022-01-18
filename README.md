@@ -23,7 +23,7 @@ A new map of Los Angeles’s publicly owned land created by the city controller 
 
 “Listing of current parcels within Los Angeles County owned by governmental or public agencies. NOTE: Because of lesser priority given to maintaining property records for non-taxable government-owned parcels, the parcel usage and even the property address shown here may not be up-to-date.”
 
-### Protected Open Space Areas – [SCAG Region](https://gisdata-scag.opendata.arcgis.com/datasets/protected-open-space-areas-scag-region/explore?showTable=true)
+### [Protected Open Space Areas – SCAG Region](https://gisdata-scag.opendata.arcgis.com/datasets/protected-open-space-areas-scag-region/explore?showTable=true)
 [DESCRIPTION]
 
 “California Protected Areas Database (CPAD) is suitable for a wide range of planning, assessment, analysis and display purposes. CPAD should not be used as the basis for regulatory, legal or other specific governmental actions. Read the CPAD Data Disclaimer for more information.
