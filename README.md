@@ -15,7 +15,7 @@ Furthermore, traditional landscaping in public open spaces, such as lawns and in
 ## Research Question
 What can existing spatial data tell us about how much open space is there in LA county (or smaller subarea of LA County) and 1) how much of this open space is accessible for human use? And 2) how much of this open space is intended or sustain plant and animal habitats?
 
-## Data sets: 
+### Data sets: 
 Publicly owned Parcels https://data.lacounty.gov/Parcel-/Assessor-Publicly-Owned-Parcels-Listing/a9jw-tqfp/data 
 A new map of Los Angeles’s publicly owned land created by the city controller is intended to get residents thinking about how to maximize the potential of these often underutilized properties. This data can provide a better understanding of where potential contested sites of land in the county are located (ie contested ownership, development of a vacant parcel, community garden, natural land, etc…)
 
