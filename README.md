@@ -1,7 +1,7 @@
 # landback
 UP206A GIS mapping around open and public lands for the people
 
-**Group**: Lupe Renteria Salome & Mel Liu
+**Group**: Lupe Renteria Salome & Mel Liu <br>
 **Group Name**: Land Access 4 All
 
 ## Introduction to Land Access and Use for Humans & Non-Humans
