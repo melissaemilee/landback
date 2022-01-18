@@ -1,13 +1,15 @@
 # landback
 UP206A GIS mapping around open and public lands for the people
 
+**Group**: Lupe Renteria Salome & Mel Liu
+**Group Name**: Land Access 4 All
 
-## Introduction
+## Introduction to Land Access and Use for Humans & Non-Humans
 As pandemics and climate change disasters continue, open spaces and their natural elements are valuable in providing respite outdoors, lessening heat island effects, among other mitigation and adaptation purposes (drainage, carbon sinks, etc). Marginalized communities who have been dispossessed of resources (and land) and their power have long experienced contestation and conflict with open spaces in their communities. We must also acknowledge the socio-cultural significance of the remnants of open lands, such as sacred sites and sustenance that native plants on these lands provide for local communities. 
 
-Definitions of open spaces: natural land, protected wildlife sanctuaries, parks, community gardens, vacant parcels (land under state or private ownership with the intention to be developed), if possible, cattle grazing lands, and agricultural lands
+**Definitions of open spaces:** natural land, protected wildlife sanctuaries, parks, community gardens, vacant parcels (land under state or private ownership with the intention to be developed), if possible, cattle grazing lands, and agricultural lands
 
-## Importance & what's at stake
+## Importance & What's At Stake
 Additionally, developers and other colonizing forces often do not consider natural climate risks such as fire, water shortage, landslides, etc. in their long-term development plans. Incorporating natural climate risks can potentially inform and influence what areas are eligible for further development.     
 
 Furthermore, traditional landscaping in public open spaces, such as lawns and invasive plant species may be more extractive than beneficial to the surrounding ecological environment.  Data that reflects where this type of landscaping exists can challenge more equitable use of the land for both humans and non-human stakeholders, such as community gardens or native plants and wildlife corridors (supporting bee populations, migratory birds, etc).   
@@ -16,12 +18,12 @@ Furthermore, traditional landscaping in public open spaces, such as lawns and in
 What can existing spatial data tell us about how much open space is there in LA county (or smaller subarea of LA County) and 1) how much of this open space is accessible for human use? And 2) how much of this open space is intended or sustain plant and animal habitats?
 
 ## Data sets: 
-### Publicly owned Parcels https://data.lacounty.gov/Parcel-/Assessor-Publicly-Owned-Parcels-Listing/a9jw-tqfp/data 
+### [Publicly owned Parcels](https://data.lacounty.gov/Parcel-/Assessor-Publicly-Owned-Parcels-Listing/a9jw-tqfp/data) 
 A new map of Los Angeles’s publicly owned land created by the city controller is intended to get residents thinking about how to maximize the potential of these often underutilized properties. This data can provide a better understanding of where potential contested sites of land in the county are located (ie contested ownership, development of a vacant parcel, community garden, natural land, etc…)
 
 “Listing of current parcels within Los Angeles County owned by governmental or public agencies. NOTE: Because of lesser priority given to maintaining property records for non-taxable government-owned parcels, the parcel usage and even the property address shown here may not be up-to-date.”
 
-### Protected Open Space Areas – SCAG Region https://gisdata-scag.opendata.arcgis.com/datasets/protected-open-space-areas-scag-region/explore?showTable=true
+### Protected Open Space Areas – [SCAG Region](https://gisdata-scag.opendata.arcgis.com/datasets/protected-open-space-areas-scag-region/explore?showTable=true)
 [DESCRIPTION]
 
 “California Protected Areas Database (CPAD) is suitable for a wide range of planning, assessment, analysis and display purposes. CPAD should not be used as the basis for regulatory, legal or other specific governmental actions. Read the CPAD Data Disclaimer for more information.
