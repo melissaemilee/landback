@@ -14,7 +14,7 @@ Mel liu will work on coordinates, points, lines, and edges exploration and proje
 
 
 ## Status update 
-remote work has been okay for us. while not ideal for class instruction, it has given us time to connect over zoom on our workflow. we feel we are both on the same page with direction of the project, but we both don't feel we know enough to make big picture decisions on how to focus the scope of our spatial analysis around vacant land in urban regions that community members can take back
+remote work has been okay for us. while not ideal for class instruction, it has given us time to connect over zoom on our workflow. we feel we are both on the same page with direction of the project, but we both don't feel we know enough to make big picture decisions on how to focus the scope of our spatial analysis around vacant land in urban regions that community members can take back and access. We have received clarity on the data sets that can inform our intention to map vacant lands accross LA.
 
 
 ## Data update: 
@@ -34,11 +34,12 @@ Our plan is to map these 2 first, narrow down the area in LA county to neighborh
 - we are still not 100% sure we are committed to LA county, but may just move forward with it given that there are a good amount of existing datasets we want to use to layer with vacant parcel data
 - focusing on marginalized communities, specifically Indigenous communities in LA county has proven to be challenging given that data is limited and problematic in it consistency, specificity, and integrity. We learned this from last week's Census assignment. 
 - parcel data file Mel worked on is large, at 39 mb. Mel is trying to balance deleting columns without losing important information in reducing file size.
+- 
 
 
 ## Minor concerns
 - we haven't learned how to layer shape and points yet from imported data. Lupe and Mel have a learning curve to figure this out
 - learning how to work with projections across all of our geodataframes
-- Mel's time has been spent with the steep learning curve of python on figuring out how to work with converting csv longitude and latitude to geomtries and getting them on projections and maps...
+- Mel's time has been spent with the steep learning curve of python on figuring out how to work with converting csv longitude and latitude to geomtries and getting them on projections and maps.
 
 
