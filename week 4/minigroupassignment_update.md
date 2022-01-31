@@ -3,7 +3,7 @@
 
 **Group**: Lupe Renteria Salome & Mel Liu
 **Group Name**: Land Access 4 All
-[Here is the link to our original propoals on Land Access and Use for Humans & Non-Humans]()
+[Here is the link to our original propoals on Land Access and Use for Humans & Non-Humans](https://github.com/melissaemilee/landback/blob/main/proposal.md)
 
 ## Roles
 Lupe Renteria Salome will be working on shape and demographic data explorations, and chloropleth color displays of mapping
