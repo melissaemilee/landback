@@ -33,10 +33,22 @@ What can existing spatial data tell us about how much open space is there in LA 
 
 These provide a common geographic boundary for reporting departmental statistics for unincorporated areas to the Board of Supervisors. They can serve as proxies for neighborhood areas.
 
-###  [** Vacant Parcels LA County - from ASR Use Code.**](https://data.lacounty.gov/Parcel-/Vacant-Parcels-LA-County-from-ASR-Use-Code/vcaw-zeg9) This is a subset of the Valuation and property description for parcels on the Assessor's annual secured assessment roll for 2015. This set is only parcels that were vacant in 2015 (see note under concerns below).
+###  [** Vacant Parcels LA County - from ASR Use Code.**](https://data.lacounty.gov/Parcel-/Vacant-Parcels-LA-County-from-ASR-Use-Code/vcaw-zeg9) 
+
+This is a subset of the Valuation and property description for parcels on the Assessor's annual secured assessment roll for 2015. This set is only parcels that were vacant in 2015 (see note under concerns below).
+
+### [US Census Explorer Demographic Data for LA County](https://data.census.gov/cedsci/)
+
+We will pull based on racial groups as defined as the Census for comparitive analaysis in our areas of interest in LA County. 2020 decennial census data still not available, we will consider ACS surveys.
 
 ## Intended analysis and resulting visualizations
 Key to our analysis is the spatial join of community boundaries with parcel coordinates. From here we will present visualizations and analysis by neighborhood boundaries in Los Angele County with specific focus on our area of interest in the neighborhoods of East Los Angeles. Given it’s active land trust work, and majority BIPOC residents, we will start with El Sereno.
 
 ## Potential Insights 
 We hope this will be an opportunity for us to reframe planning; how can one reimagine a healthy relationship to land and build an urban environment through a holistic and racial just lens that preserves existing ecological environments and expands access to open space for marginalized communities? 
+
+## Potential and Current Project Challenges
+
+Vacant Parcel Data available to the public was last updated by the Country Assessor in 2015. There were 16,000 plus parcels indentified. As parcels are relatively small units in the landscape of mapping the county, it may be challenging for us to run a countywide analysis without downloading Jupyter to our hardrives (over 40 MB of data to wrangle spatially!).
+
+Additionally there will much more data cleaning needed for a dataset of this size.
