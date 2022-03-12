@@ -1,0 +1,1141 @@
+﻿objectid,name,address,lng,lat,type_,subtype_,source,verified,exisitng,contact,website,comment_,city,state,zip
+1,Jardin Del Rio,2363 N. Riverdale Avenue,-118.23460919000,34.09124006000,Community Garden,,Community Garden Database,Verified,null,David De La Torre 310-233-2002 david.delatorre@psterminals.com,,,Los Angeles,CA,90031
+2,Long Beach Grows Unity Farm,5450 Atherton Street,-118.12686776000,33.78817769000,Community Garden,,Community Garden Database,Verified,null,Steve Passmore 562-912-3364 info@longbeachgrows.org,,,Long Beach,CA,90815
+3,F And A Nursery,7399 Crider Avenue,-118.11027271000,33.98383095000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+4,Santa Fe Springs Community Garden,10145 Pioneer Boulevard,-118.08158172000,33.94403714000,Community Garden,,Community Garden Database,Verified,null,Michelle Smith 562-948-1986 michellesmith@santafesprings.org,,,Santa Fe Springs,CA,90670
+5,Four Seasons Wholesale Nursery,Plummer Street,-118.54728006000,34.24275206000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91324
+6,El Castillo Nursery,555 West 146th Street,-118.28457629000,33.89963956000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+7,Fantasy Nursery,16526 Circle Hill Lane,-117.94976779000,33.98563293000,Nursery,,Nursery Database,Verified,null,,,,Hacienda,CA,91745
+8,Four Seasons Ornamental,243 Euclid St.,-118.50272007000,34.03709361000,Nursery,,Nursery Database,Verified,null,,,,Santa Monica,CA,90402
+9,Emerson Avenue Community Garden,6550 West 80th Street,-118.40424525000,33.96932326000,Community Garden,,Community Garden Database,Verified,null,Dorothy Stone 310-337-0827 eacgc@yahoo.com,,,Westchester,CA,90045
+10,"Grand View Geranium Gardens, Incorporated",18307 South Central Avenue,-118.24881716000,33.88189800000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90747
+11,We Garden,1010 Abbot Kinney Blvd,-118.47218907000,33.99211615000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90201
+12,Junior'S Nursery,18836 Satrcoy St,-118.54044183000,34.20087433000,Nursery,,Nursery Database,Verified,null,,,,Reseda,CA,91335
+13,Santa Monica- Park Drive Community Garden,1400 Park Drive,-118.47590786000,34.03189801000,Community Garden,,VFG-LA,Verified,null,,,,Santa Monica,CA,90404
+14,Jose J. Munoz Nursery,10750 Oxnard St.,-118.36498598000,34.17940312000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91601
+15,L.A. Nursery,18820 Prairie Avenue,-118.54315852000,34.23910234000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91324
+16,Florence-Firestone Community Garden,Northwest corner of E. 98th Street and Pace Avenue,-118.24622413000,33.94942949000,Community Garden,,Community Garden Database,Verified,null,Carlos Bustos  carlos_bustos76@yahoo.com,,,Los Angeles,CA,90002
+17,Centenos Nursery And Landscaping,6850 Paramount Boulevard,-118.15992579000,33.87930587000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+18,Howard Finn Community Garden,7747 Foothill Boulevard,-118.30149880000,34.25793175000,Community Garden,,Community Garden Database,Verified,null,Robin Johnson 818-353-0741 emailrrj@yahoo.com,,,Tujunga,CA,91042
+19,Backyard Grown Nursery,31094 San Martinez Road,-118.67784417000,34.44924376000,Nursery,,Nursery Database,Verified,null,,,,Castaic,CA,91384
+20,Mikamo Nursery,1029 West 223rd Street,-118.29335881000,33.82449803000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90502
+21,Thomas Edison Elementary,435 S. Pacific Avenue,-118.26444234000,34.14055548000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Glendale,CA,91204
+22,Reedley St. Farms,13531 Reedley St.,-118.44560849000,34.22701551000,Nursery,,Nursery Database,Verified,null,,,,Panorama City,CA,91402
+23,William Anderson Elementary,4130 W. 154th Street,-118.34696206000,33.89098466000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Lawndale,CA,90260
+24,"S.Y. Nursery, Incorporated",19900 South Pioneer Boulevard,-118.08194243000,33.84952087000,Nursery,,Nursery Database,Verified,null,,,,Cerritos,CA,90703
+25,Gratts Early Education Center,1415 W. 5th Street,-118.26378181000,34.05548652000,School Garden,Headstart,LA County,Verified,null,"Ana Oregal 213-481-3230, 213-481-3238",,,Los Angeles,CA,90017
+26,Somis Nursery Llc Dba Nakano Nursery,9647 Noble Ave,-118.46094315000,34.24589076000,Nursery,,Nursery Database,Verified,null,,,,North Hills,CA,91343
+27,The Learning Centers At Fairplex - The Farm,1101 W. McKinley Avenue,-117.76671750000,34.08105040000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,91768
+28,"Toro Nursery, Incorporated",17620 Crenshaw Boulevard,-118.32644989000,33.87042353000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+29,"Vineland Growers Nursery, Inc.",6200 Vineland Avenue,-118.37028719000,34.18314248000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91606
+30,Wild Wood Nursery,2692 N. Towne Ave,-117.73675639000,34.09344069000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,91767
+31,Augustus Hawkins High School,825 West 60th Street,-118.28804869000,33.98552749000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90044
+32,Baldwin Park Usd Ece Center,3699 North Holly Ave,-117.95977679000,34.08302971000,School Garden,Headstart,2015 Master Gardeners List,Verified,null,,,,Baldwin Park,CA,91706
+33,Harvest Garden At Barnhart School,240 W Colorado Blvd.,-118.04020407000,34.14537547000,School Garden,Elementary,Site Survey,Verified,null,,,,Arcadia,CA,91007
+34,Aspire Inskeep Academy,123 w 59th st,-118.27475011000,33.98695759000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90003
+35,Los Pinos Wholesale Nursery,7860 Whitsett Avenue,-118.40521411000,34.21402184000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+36,"A Plant Affair, Llc",1931 Blake Avenue,-118.24374726000,34.09924732000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90039
+37,"Boething Treeland Farms, Incorporated",23475 Long Valley Road,-118.63920950000,34.15909679000,Nursery,,Nursery Database,Verified,null,,,,Woodland Hills,CA,91367
+38,Elysian Heights Es,1562 BAXTER ST,-118.24882078000,34.08883456000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90026
+39,Jack London Day,12924 Oxnard Street┬á,-118.41430737000,34.17938773000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Valley Glen,CA,91401
+40,Loyola Marymount University,1 Loyola Marymount University Drive,-118.39823633000,33.95498069000,School Garden,College,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90045
+41,Amestoy,1048 W. 149th St.,-118.29268980000,33.89642346000,School Garden,Elementary,NEOP,Verified,null,,,,Gardena,CA,90247
+42,Micheltorena Street Elementary,1511 Micheltorena Street,-118.27493542000,34.08906766000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90026
+43,Park Western,1214 Park Western Place,-118.30459093000,33.75328707000,School Garden,Elementary,NEOP,Verified,null,,,,San Pedro,CA,90732
+44,Pueblo De Los Angeles Continuation,2506 ALTA ST,-118.20440566000,34.07535671000,School Garden,Adult/Continuation,Site Survey,Verified,null,,,,Los Angeles,CA,90031
+46,Glendale Unified School District,223 North Jackson Street,-118.25016560000,34.14894898000,School Garden,Adult/Continuation,Site Survey,Verified,null,,,,Glendale,CA,91206
+47,Montague Charter Academy,13000 Montague Street,-118.41556457000,34.24442016000,School Garden,Elementary,AHA,Verified,null,,,,Pacoima,CA,91331
+48,Norwood Street Elementary,2020 OAK ST,-118.27874972000,34.03528858000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90007
+49,Granada Middle School,15337 Lemon Drive,-118.00299868000,33.92323776000,School Garden,Middle,Site Survey,Verified,null,,,,Whittier,CA,90604
+50,Whittier Elementary School,1761 Walnut Avenue,-118.17205744000,33.78913953000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90813
+51,Obama Global Prep Academy,1700 W. 46th Street,-118.30903595000,34.00186036000,School Garden,Middle,AHA - Randy Ryan,Verified,null,,,,┬áLos Angeles,CA,90062
+52,Glenfeliz Elementary School,3955 Glenfeliz Blvd,-118.26784440000,34.12238872000,School Garden,Middle School,EnrichLA,Verified,null,,,,Los Angeles,CA,90039
+53,La Conte Middle School And Citizens Of The World Charter School,1316 North Bronson Ave.,-118.31794662000,34.09481018000,School Garden,Middle School,EnrichLA,Verified,null,,,,Los Angeles,CA,90028
+54,Cheremoya Elementary School,6017 Franklin Avenue,-118.32101894000,34.10526839000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90028
+55,Brian Enterprises,34810 Largo Vista Rd.,-117.76523588000,34.51425066000,Farm,,Certified Producers List,Verified,null,,,,Llano,CA,93544
+56,Worldwide Exotics Inc,11157 Orcas Ave,-118.36859166000,34.27189137000,Farm,,Certified Producers List,Verified,null,,,,Lakeview Terrace,CA,91342
+57,Sweet Peach Farm,13502 Lubican St.,-117.97923941000,34.08474358000,Farm,,Certified Producers List,Verified,null,,,,Baldwin Park,CA,91706
+58,Healthy Greens Co,817 E. Clemmer Dr.,-118.21292974000,33.87938821000,Farm,,Certified Producers List,Verified,null,,,,Compton,CA,90221
+59,Marengo School Garden,1400 Marengo Avenue,0.00000000000,0.00000000000,School Garden,null,null,Not Viewed,New Site,"Rachel Surls,",,test site,South Pasadena,CA,91030-3951
+60,Monterey Road Eco-Community Garden - West,827 Monterey Road,-118.24566801000,34.15765932000,Community Garden,,Community Garden Database,Verified,null,Alek Bartrosouf 818-359-0108 abartrosouf@hotmail.com,,,Glendale,CA,91206
+61,Arleta Community Garden,8800 Canterbury Avenue,-118.42451218000,34.22961903000,Community Garden,,Community Garden Database,Verified,null,Evelyn Tanjuaquio 818-894-3717 etntl@verizon.net,,,San Fernando Valley,CA,91331
+62,South Pasadena Community Garden,1028 Magnolia Street,-118.15617173000,34.11783121000,Community Garden,,Community Garden Database,Verified,null,Michelle Hammond 323.533.2749 michelle@colourmovie.com,,,South Pasadena,CA,91030
+63,Salesian Boys & Girls Club Community Garden,2228  E. 4th St.,-118.21333068000,34.04127550000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90033
+64,Verdugo Park Community Garden,1621 Canada Boulevard,-118.22917974000,34.17010306000,Community Garden,,Community Garden Database,Verified,null,Armen Tagakchyan 818-548-2054 atagakchyan@ci.glendale.ca.us,,,Glendale,CA,91208
+65,Yamazaki Memorial Community Garden,961 S. Mariposa Avenue,-118.29899293000,34.05387011000,Community Garden,,Community Garden Database,Verified,null,Nancy Fausto 323-494-5537,,,Los Angeles,CA,90006
+66,"Ironwood Unlimited, Inc. Dba El Nativo Growers",200 S. Peckham Road,-117.93748390000,34.12061767000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91214
+67,"Jiamei Garden U.S.A., Incorporated",2304 Lee Avenue,-118.06725058000,34.05452940000,Nursery,,Nursery Database,Verified,null,,,,South El Monte,CA,91733
+68,"Lincoln Avenue Nursery, Incorporated",804 Lincoln Avenue,-118.15684962000,34.15833725000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91103
+69,"Armstrong Garden Centers, Incorporated",3226 Wilshire Boulevard,-118.47118108000,34.04103773000,Nursery,,Nursery Database,Verified,null,,,,Santa Monica,CA,90403
+70,Peachland Elementary,24800 Peachland Avenue,-118.54603343000,34.37478226000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Santa Clarita,CA,91321
+71,Saint Maria Gorreti Catholic School,3950 Palo Verde Ave,-118.10776600000,33.82876034000,School Garden,K-8,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90808
+72,Sequoyah Elementary,535 S Pasadena Avenue,-118.15415258000,34.13679242000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91105
+73,Sch Valmont Elementary,3801 Via La Selva,-118.36527966000,33.80125405000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Palos Verdes Estates,CA,90274
+74,Wilkerson Elementary,2700 N. Doreen Ave,-118.04473348000,34.06104450000,School Garden,Elementary,LA County,Verified,null,Olivia Gallardo 626-575-2311 ogallardo@emcsd.org,,,El Monte,CA,91733
+75,Altadena Community Garden,3330 N. Lincoln Avenue,-118.15917972000,34.20303348000,Community Garden,,Community Garden Database,Verified,null,Silvera Grant 626-398-9840 silveragrant@gmail.com,,,Altadena,CA,91001
+76,Bougainvillea Community Garden,E. 103rd Street & Grape Street,-118.23695798000,33.94313413000,Community Garden,,Community Garden Database,Verified,null,Pedro Barrera (MG) 323-979-6935 pedro_barrera1127@yahoo.com,,,Los Angeles,CA,90002
+77,"Long Beach Organic, Inc. - Wrigley Village Garden",2044 Pacific Avenue,-118.19364621000,33.79431105000,Community Garden,,Community Garden Database,Verified,null,Joe Corso 562-438-9000 Joe@LongBeachOrganic.org,,,Long Beach,CA,90806
+78,Cheremoya Ave Elementary,6017 Franklin Avenue,-118.32101894000,34.10526839000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90028
+79,Carson-Gore Academy Of Environmental Studies School,3200 W. Washington Blvd.,-118.31914944000,34.03986289000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90018
+80,Clifford Street Elementary School,2150 Duane St.,-118.25793048000,34.08939517000,School Garden,Elementary,EnrichLA,Verified,null,Armineh┬áAlexan,,,Los Angeles,CA,90039
+81,Valley View Elementary School,6921 Woodrow Wilson Drive,-118.34465103000,34.12479669000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90068
+82,The Accelerated School,116 E. Martin Luther King Jr. Blvd.,-118.27313936000,34.01112349000,School Garden,Kindergarten,EnrichLA,Verified,null,,,,Los Angeles,CA,90011
+83,Manzanita School,1717 Old Topanga Canyon,-118.63379914000,34.11160110000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Topanga,CA,90290
+84,Westport Heights,6011 W. 79th St.,-118.38879744000,33.96634769000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90045
+85,Los Altos Elementary,15565 Los Altos Drive,-117.97809214000,33.98823993000,School Garden,Elementary,Site Survey,Verified,null,,,,Hacienda Heights,CA,91745
+86,Magnolia Place Childrens Bureau,1910 Magnolia Ave,-118.28639599000,34.03963095000,Community Garden,,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90007
+87,Yamaguchi Bonsai Nursery,1905 Sawtelle Boulevard,-118.44489563000,34.04236654000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90025
+88,Abalone Cove Farm,5521 Palos Verde Dr. S.,-118.37430303000,33.74184399000,Farm,,Certified Producers List,Verified,null,,,,Rancho Palos Verdes,CA,90275
+89,JF Organic Farm,210 N. 9th Ave.,-117.98139146000,34.01400246000,Farm,,Certified Producers List,Verified,null,,,,City of Industry,CA,91745
+90,Kwa Luk Gardens,2020 Buenos Aires Dr.,-117.85664029000,34.05592164000,Farm,,Certified Producers List,Verified,null,,,,Covina,CA,91724
+91,Precision Agritechnologies,12838 Weber Way,-118.33152345000,33.91607906000,Farm,,Certified Producers List,Verified,null,,,,Hawthorne,CA,90277
+92,John S. Gibson Senior Garden,1500 S. Harbor Boulevard,-118.27995750000,33.73079468000,Community Garden,,Community Garden Database,Verified,null,Howard Kay 310-833-9577 howardkay@dslextreme.com,,,San Pedro,CA,90731
+93,"Armstrong Garden Centers, Incorporated",735 East Foothill Boulevard,-117.70075580000,34.10691761000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711
+94,Mulhall Elementary School,10900 Mulhall Street,-118.02914834000,34.08930724000,School Garden,Elementary,LA County,Verified,null,Michael Rogel 626-453-3784,,,El Monte,CA,91731
+95,Sempervirens Botanical Company,18715 S. Western Avenue,-118.30920026000,33.86064819000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+96,Vine Street Elementary School,955 North VIne Street,-118.32664832000,34.08819276000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90038
+97,32Nd Street Usc Performing Arts,822 W 32ND ST,-118.28219079000,34.02491509000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90007
+98,"Harris, Dale E Or Cary Harris",5181 Mountain Springs Ranch Rd,-117.77219870000,34.14509656000,Farm,,Certified Producers List,Verified,null,,,,La Verne,CA,91750
+99,Good Earth Community Garden,Corner of Clyde Avenue and Boden Street - Across from 5571 Boden,-118.36620703000,34.02711268000,Community Garden,,Community Garden Database,Verified,null,David Jackson 323-935-8754 david5214@sbcglobal.net,,,Los Angeles,CA,90016
+100,Fremont Wellness Center & Community Garden,7821 S. Avalon Blvd.,-118.26519728000,33.96816788000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90003
+101,"Long Beach Organic, Inc. - Grace Park Garden",325 E. Plymouth Street,-118.18948804000,33.85333950000,Community Garden,,Community Garden Database,Verified,null,Joe Corso 562-438-9000 Joe@LongBeachOrganic.org,,,Long Beach,CA,90805
+102,"Long Beach Organic, Inc. - South Forty Garden",2813 South Street,-118.15843324000,33.86020797000,Community Garden,,Community Garden Database,Verified,null,Joe Corso 562-438-9000 Joe@LongBeachOrganic.org,,,Long Beach,CA,90805
+103,Parkman Gardens,20800 Burbank Boulevard,-118.58674942000,34.17194315000,Community Garden,,Community Garden Database,Verified,null,Suzanne Boyle 818-274-7402 abbesue@sbcglobal.net,,,Woodland Hills,CA,91367
+104,Baldwin Park Community Garden,13067 Bess Avenue,-117.98934330000,34.06554513000,Community Garden,,Community Garden Database,Verified,null,Kitty Hedrick 626-705-5950 kthedrick@champmail.com,,,Baldwin Park,CA,91706
+105,"M.B. Nursery And Landscaping, Incorporated",19202 Main Street,-118.27553549000,33.80287672000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+106,Medall Orchids,4302 Baldwin Park Boulevard,-117.96486621000,34.09061197000,Nursery,,Nursery Database,Verified,null,,,,Baldwin Park,CA,91706
+107,Theodore Payne Foundation,10459 Tuxford Street,-118.35955920000,34.23553861000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+108,Royal Oaks Elementary,2499 Royal Oaks Drive,-117.95092439000,34.14342747000,School Garden,Elementary,LA County,Verified,null,"Kathy Covert Janice Kolodinski, Principal, 626-599-5401",,,Duarte,CA,92010
+109,Rowland Avenue Elementary School,1355 East Rowland Avenue,-117.91796296000,34.07923845000,School Garden,Elementary,LA County,Verified,null,April Buege 626-641-7002,,,West Covina,CA,91790
+110,Academic Leadership Center At Miguel Contreras School,322 S. Lucas Ave.,-118.26172059000,34.05807560000,School Garden,High School,EnrichLA,Verified,null,adam┬ábyrne,,,Los Angeles,CA,90017
+111,Carpenter Community Charter,3909 Carpenter Avenue,-118.39203759000,34.14095546000,School Garden,Elementary,Site Survey,Verified,null,,,,Studio City,CA,91604
+112,Los Feliz Science/Tech/Engineer/Math/Medicine Magnet,1740 N NEW HAMPSHIRE AVE,-118.29330636000,34.10259119000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90027
+113,El Nido Family Ctr Head Start,2152 W. Manchester Ave.,-118.31741981000,33.95994315000,School Garden,Headstart,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90047
+114,Mitchell Comm Elementary,16821 W. Goodvale Street,-118.46527400000,34.42932126000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Canyon Country,CA,91351
+115,Mulholland,17120 Vanowen St.,-118.50691944000,34.19385261000,School Garden,Middle School,NEOP,Verified,null,,,,Lake Balboa,CA,91406
+116,Meadowlark Elementary School,3015 sacramento Ave,-118.18315992000,34.47355563000,School Garden,Elementary,Site Survey,Verified,null,,,,Acton,CA,93510
+117,The Accelerated Schools-Aces 1,119 E. 37th Street,-118.27330952000,34.01492774000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90011
+118,Caldera Bees,207 S. Vancouver Ave,-118.15684257000,34.03509008000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90022
+119,Braeridge Farms,1331 Braeridge Dr.,0.00000000000,0.00000000000,Farm,,null,Not Viewed,New Site,Dr. David Gadish,,,Beverly Hills,California,90210
+120,Rachel's Office,700 West Main Street,0.00000000000,0.00000000000,Farm,,,Not Viewed,New Site,Rachel Surls  ramabie@ucanr.edu 626-586-1982,,Test Case,Alhambra,California,91801
+121,Kit Carson Elementary School,3530 W 147th St.,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,(310) 973-1300 x50053,,,Lawndale,CA,90064
+122,Jane Addams Middle School,4535 W. 153rd Pl.,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,(310) 973-1300,,,Lawndale,CA,90064
+123,William Green Elementary School,4520 W 168th St,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,(310) 973-1300,,,Lawndale,CA,90260
+124,Lucille Smith Elementary School,4521 W 147th St.,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,(310) 973-1300,,,Lawndale,CA,90260
+125,Rogers Middle School,4110 W 154th St.,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,(310) 973-1300,,,Lawndale,Ca,90260
+126,Seeds to Plate Program at Mark Twain Middle School,2224 Walgrove Avenue,0.00000000000,0.00000000000,School Garden,Middle School,,Approved,Update Site,"Marianne Brown, Interim Director, 310-902-9428, info@seedstoplate.net",www.seedstoplate.net,"Seeds to Plate is a garden based middle school curriculum program with edible, culinary, nutrition and environmental education.",Los Angeles,CA,90066
+127,Janet Lai,2878 Roosevelt Street,-117.75677537000,34.09584400000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+128,Marquez Charter School,16821 Marquez Avenue,0.00000000000,0.00000000000,School Garden,,,Not Viewed,New Site,Marie Steckmest,www.marquezcharter.org,,PACIFIC PALISADES,Los Angeles,90272
+129,Coeur d'Alene School Garden,810 Coeur d'Alene Avenue,0.00000000000,0.00000000000,School Garden,Elementary,,Approved,New Site,beckywolfe@gmail.com,,,Venice,CA,90291
+130,San Pascual STEAM Magnet,815 San Pascual Avenue,0.00000000000,0.00000000000,School Garden,Elementary,,Approved,New Site,Sharon Nakata,www.sanpascual-lausd-ca.schoolloop.com,,Los Angeles,California,90042
+131,Walgrove Elementary School,1630 Walgrove Ave.,0.00000000000,0.00000000000,School Garden,Elementary,,Approved,New Site,"Olivia Adams, Principal",,,Los Angeles,Ca,90066
+132,24Th Street Elementary,2055 W 24TH ST,-118.31012015000,34.03474858000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90018
+133,Columbia Park Community Garden,4045 190th Street,-118.34458867000,33.85831704000,Community Garden,,Community Garden Database,Verified,null,Mary Lou Weiss 310-781-7520 MWeiss@TorranceCa.Gov,,,Torrance,CA,90504
+134,"American Growers Plus, Incorporated",18830 Strathern Street,-118.54334694000,34.21561430000,Nursery,,Nursery Database,Verified,null,,,,Reseda,CA,91335
+135,Central Park Community Garden,27150 Bouquet Canyon Road,-118.53727913000,34.42691139000,Community Garden,,Community Garden Database,Verified,null,,,,Santa Clarita,CA,91350
+136,Amigos Nursery,1420 92th Street,-118.24622413000,33.94942949000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90002
+137,Anelo Landscape Soln'S Inc Dba Rolling Hills Nurs.,7150 Jackson Street,-118.17394773000,33.88546464000,Nursery,,Nursery Database,Verified,null,,,,Paramount,CA,90723
+138,City Of Santa Monica Euclid Park Community Garden,1525 Euclid Street,-118.48452047000,34.02151293000,Community Garden,,Community Garden Database,Verified,null,,,,Santa Monica,CA,90404
+139,Annandale Garden Center,7720 N. Figueroa Street,-118.18343427000,34.14508496000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90041
+140,City Of Santa Monica Main Street Community Garden,2300 Main Street,-118.48658478000,34.00479713000,Community Garden,,Community Garden Database,Verified,null,,,,Santa Monica,CA,90405
+141,"Anthony Tesselaar Usa, Incorporated",15200 Mansel Avenue,-118.35583653000,33.89343040000,Nursery,,Nursery Database,Verified,null,,,,Lawndale,CA,90260
+142,City Of Santa Monica Park Drive Community Garden,1400 Park Drive,-118.47590786000,34.03189801000,Community Garden,,Community Garden Database,Verified,null,,,,Santa Monica,CA,90404
+143,Arbor Nursery Plus,2865 Royal Oaks Drive,-117.94344431000,34.14485859000,Nursery,,Nursery Database,Verified,null,,,,Duarte,CA,91010
+144,Crenshaw Community Garden,1423 S. Crenshaw Boulevard,-118.32764726000,34.04616101000,Community Garden,,Community Garden Database,Verified,null,Danila Oder  doder@usc.edu,,,Los Angeles,CA,90019
+145,Armando Orozco Nursery,12205 Saticoy Street,-118.39929608000,34.20849865000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91606
+146,Armando Sedano,1825 Monica Court,-117.91776287000,33.98794362000,Nursery,,Nursery Database,Verified,null,,,,Rowland Heights,CA,91748
+147,Center Street Garden,196 E. Center Street,-117.74824335000,34.06146068000,Community Garden,,Community Garden Database,Verified,null,Nathan Robinson 909-918-GROW info@centerstreetgarden.org,,,Pomona,CA,91767
+148,Alta Greens,3796 Alzada Rd,-118.14638435000,34.20698219000,Nursery,,Nursery Database,Verified,null,,,,Altadena,CA,91001
+149,Alvarez Gardens,10644 Tuxford Street,-118.36292988000,34.23581367000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+150,Cambodian Seniors Gardening Project,1851 Cerritos Avenue,-118.17743265000,33.79086111000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90806
+151,Alvarez Nursery,11362 Woodley Ave,-118.48465170000,34.27703032000,Nursery,,Nursery Database,Verified,null,,,,Granada Hills,CA,91344
+152,Detroit Community Garden,1201 Detroit St.,-118.34522154000,34.09261222000,Community Garden,,Community Garden Database,Verified,null,,,,West Hollywood,CA,90046
+153,Chuy'S Nursery,Orange and Taylor,-118.14615735000,34.05173565000,Nursery,,Nursery Database,Verified,null,,,,Monterey Park,CA,91754
+154,Fountain Community Gardens,5620 Fountain Avenue,-118.31178217000,34.09474231000,Community Garden,,Community Garden Database,Verified,null,Alex Alferov 323-387-FCG1 fountaincommunitygardens@gmail.com,,,Los Angeles,CA,90028
+155,Chuy'S Nursery,9124 Gallatin Road,-118.07640534000,34.01646390000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+156,Eagle Rockdale Community Garden,1003 Rockdale Avenue,-118.18878836000,34.13392644000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90041
+157,Classic Landscaping And Nursery,9090 Laurel Canyon Boulevard,-118.40708248000,34.23516764000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+158,East Hollywood Garden Achievement Center,1171 Madison Avenue,-118.28931852000,34.09268622000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90029
+159,Classic Landscaping And Nursery,18756 Erwin Street,-118.54230930000,34.18384312000,Nursery,,Nursery Database,Verified,null,,,,Tarzana,CA,91335
+160,East La Learning Garden/Mott St Urban Farm,1001-1021 S. Mott Street,-118.21437999000,34.03103529000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90023
+161,Coiner Nursery,605 Freeway and Valley Boulevard,-117.95334048000,34.03532037000,Nursery,,Nursery Database,Verified,null,,,,La Puente,CA,91749
+162,Colorama Wholesale Nursery,1025 North Todd Avenue,-117.92497278000,34.14221073000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91702
+163,Colorama Wholesale Nursery,1203 Bonnie Cone,-117.85169175000,34.14428578000,Nursery,,Nursery Database,Verified,null,,,,Glendora,CA,91741
+164,"Corey Nursery Company, Incorporated",1650 North Padua,-117.71887796000,34.10788865000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711
+165,Diamond Bar Community Garden,2335 S. Diamond Bar Boulevard,-117.82991177000,33.98257989000,Community Garden,,Community Garden Database,Verified,null,Brittany N. Mello 951-235-9911 DiamondBarCommunityGarden@Gmail.com,,,Diamond Bar,CA,91765
+166,Cerritos Growers,19805 Gridley Road,-118.09082166000,33.85029830000,Nursery,,Nursery Database,Verified,null,,,,Cerritos,CA,90703
+167,Dan Mckenzie Community Garden,4324 160th Street,-118.35109973000,33.88544557000,Community Garden,,Community Garden Database,Verified,null,,,,Lawndale,CA,90260
+168,Cerritos Growers,6855 Myrtle Ave.,-118.18180042000,33.87901403000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+169,Culver City Community Garden,10860 Culver Boulevard,-118.40507794000,34.01047329000,Community Garden,,Community Garden Database,Verified,null,Darren Uhl 310-253-6729 darren.uhl@culvercity.org,,,Culver City,CA,90230
+170,Ben K. Bonsai Nursery,2301 Kelburn Avenue,-118.09465263000,34.05466070000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+171,Greater Watts Community Garden,660 E. 118th Place,-118.26339367000,33.92554404000,Community Garden,,Community Garden Database,Verified,null,Clift Johnwell,,,Los Angeles,CA,90059
+172,Holy Nativity Community Garden,6700 West 83rd Street,-118.40652967000,33.96343272000,Community Garden,,Community Garden Database,Verified,null,310-670-4777 holynativity@sbcglobal.net,,,Westchester,CA,90045
+173,Big Island Plant Company,1101 West McKinley Avenue,-117.76671750000,34.08105040000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,92103
+174,Growing Great Dreams,125 E. Martin Luther King Jr. Blvd,-118.27269606000,34.01117718000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90011
+175,"Blue Hills Nursery, Incorporated",16440 East Whittier Boulevard,-117.97911120000,33.93992311000,Nursery,,Nursery Database,Verified,null,,,,Whittier,CA,90603
+176,Hermosa Beach Community Garden,210 Valley Drive,-118.39461322000,33.85570883000,Community Garden,,Community Garden Database,Verified,null,,,,Hermosa Beach,CA,90254
+177,"Corey Nursery Company, Incorporated",25308 East Baseline,-117.25240751000,34.12133852000,Nursery,,Nursery Database,Rejected,null,,,,San Bernardino,CA,92410
+178,Cstars Nursery,1400 West Greenleaf,-118.20155567000,33.89533372000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90221
+179,Hudson Community Garden,Adjacent to 2335 Webster Avenue,-118.21983033000,33.79994122000,Community Garden,,Community Garden Database,Verified,null,"Daryl Johns 562-428-8820, 562-544-4325 daryl_johns@us.aflac.com",,,Long Beach,CA,90810
+180,"Boething Treeland Nursery Company, Incorporated",23475 Long Valley Road,-118.63920950000,34.15909679000,Nursery,,Nursery Database,Verified,null,,,,Woodland Hills,CA,91367
+181,Bee Flat Ranch,Bee Flat Ranch Parcel #5864029001,-118.19947928000,34.21033725000,Nursery,,Nursery Database,Verified,null,,,,La Canada,CA,91011
+182,Cstars Nursery,17654 South Normandie Avenue,-118.29899333000,33.87103314000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+183,Bountiful Gardens,10150 Foothill Boulevard,-118.35006254000,34.27295298000,Nursery,,Nursery Database,Verified,null,,,,Lake View Terrace,CA,91342
+184,Geneva Gardens,626 Geneva Street,-118.24677594000,34.15577366000,Community Garden,,Community Garden Database,Verified,null,Alek Bartrosouf 818-359-0108 abartrosouf@hotmail.com,,,Glendale,CA,91206
+185,Glassell Park Community Garden,3304 Drew Street,-118.24280319000,34.12011712000,Community Garden,,Community Garden Database,Verified,null,Margarita Darett 323-788-1323 mdarett@sbcglobal.net,,,Los Angeles,CA,90065
+186,Barranquillas Nursery,28920 Bouquet Canyon Road,-118.53727913000,34.42691139000,Nursery,,Nursery Database,Verified,null,,,,Saugus,CA,91350
+187,Granada Hills Salad Bowl Garden Club,16003 Rinaldi Street,-118.48080945000,34.27917802000,Community Garden,,Community Garden Database,Verified,null,Bob Olander 818-368-4533 robola2011@gmail.com,,,Granada Hills,CA,91344
+188,"C And S Nursery, Incorporated",5501 Coliseum Street,-118.36636933000,34.01839750000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90016
+189,C And Y Growers,11811 Strathern Street,-118.39035110000,34.21575711000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+190,Cal Poly Nursery,4102 South University Drive,-117.82060846000,34.05026519000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,91768
+191,Califarmer,2559 E. Monroe Street,-118.22199982000,33.83549821000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90810
+192,California Cactus Center,216 South Rosemead Boulevard,-118.07323630000,34.14254057000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91107-4952
+193,California Nurseries,18924 Roscoe Blvd,-118.54581868000,34.22057333000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91324
+194,"Campbell Landscapes, Inc.",740 Amelia Street,-117.82020838000,34.12254756000,Nursery,,Nursery Database,Verified,null,,,,San Dimas,CA,91773
+195,Captain Cactus,1535 Ohio Ave,-118.16010253000,33.78675149000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90804
+196,Carreon Nursery,7900 Lamersed,-118.08197409000,34.06497471000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91770
+197,El Rancho Growers Nursery,1801 S. Grandridge Ave,-118.13530198000,34.04280004000,Nursery,,Nursery Database,Verified,null,,,,Monterey Park,CA,91754
+198,El Rancho Growers Nursery,1767 Isabella Street,-118.14615735000,34.05173565000,Nursery,,Nursery Database,Verified,null,,,,Monterey Park,CA,91754
+199,Certified Plant Growers,10524 East Firestone Boulevard,-118.10798005000,33.92699884000,Nursery,,Nursery Database,Verified,null,,,,Norwalk,CA,90650
+200,Chemical Consultants Intl Dba Foothills Cactus,11252 Ranetto Pl.,-118.34629907000,34.27432130000,Nursery,,Nursery Database,Verified,null,,,,Lake View Terrace,CA,91342
+201,Chikugo-En Bonsai Nursery,18110 South Western Avenue,-118.30909683000,33.86621084000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+202,F And A Nursery,8650 Artesia Boulevard,-118.14765984000,33.87466223000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+203,La Madera Community Garden,3805 La Madera Avenue,-118.01734260000,34.07365016000,Community Garden,,Community Garden Database,Verified,null,Carmen Macias 626-419-1436 n.jaffer@sbcglobal.net,,,El Monte,CA,91732
+204,"Brothers Nursery, Incorporated",302 East Foothill Blvd Suite 202,-117.90479911000,34.13345385000,Nursery,,Nursery Database,Verified,null,,,,San Dimas,CA,91702
+205,La Mirada Community Garden,13518 Biola Avenue,-118.01949998000,33.90925351000,Community Garden,,Community Garden Database,Verified,null,Fred O'Shann 562-941-2861 leafredo@verizon.net,,,La Mirada,CA,90638
+206,"Burkard Nurseries, Incorporated",690 North Orange Grove Boulevard,-118.15554301000,34.15515616000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91103
+207,Fausto Garcia,5759 Allington Street,-118.11965016000,33.86557029000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+208,Lennox Community Garden,SW corner of W. 112th Street and Inglewood Ave,-118.35705090000,33.93842297000,Community Garden,,Community Garden Database,Verified,null,Karla Cortez 323-786-3587 karla@fromlottospot.org,,,Lennox,CA,90304
+209,"Color Spot Nurseries, Inc. Attn:Cheryl Matheson",321 West Sepulveda Boulevard,-118.27991486000,33.80799358000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+210,Long Beach Community Garden,7600 E. Spring Street,-118.08617765000,33.81032972000,Community Garden,,Community Garden Database,Verified,null,"Lonnie Brundage (MG) 562-597-0926, 562-626-9221 lonsgrdn@aol.com",,,Long Beach,CA,90815
+211,First Image Nursery,16801 South Central,-118.24884051000,33.88027126000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90746
+212,Long Beach Grows Orizaba Park,1435 Orizaba Avenue,-118.15680405000,33.78507221000,Community Garden,,Community Garden Database,Verified,null,Steve Passmore 562-912-3364 info@longbeachgrows.org,,,Long Beach,CA,90804
+213,First Image Nursery,2700 South Fairfax Avnue,-118.37149750000,34.03074949000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90016
+214,"Long Beach Organic, Inc. - Mary Molina Garden",1640 W. 20th Street,-118.21477942000,33.79345323000,Community Garden,,Community Garden Database,Verified,null,Joe Corso 562-438-9000 Joe@LongBeachOrganic.org,,,Long Beach,CA,90810
+215,"Colorful Garden Center, Incorporated",28263 Dorothy Drive,-118.74246295000,34.14200793000,Nursery,,Nursery Database,Verified,null,,,,Agoura Hills,CA,91301
+216,First Image Nursery,17723 Prairie Avenue,-118.34384087000,33.86973577000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+217,Four Seasons Wholesale Nursery,18840 Nordhoff Street,-118.54380932000,34.23543371000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91324
+218,Crown Valley Nursery,3111 E. Sierra Madre Blvd.,-118.08627357000,34.16172999000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91107
+219,"Long Beach Organic, Inc. - Pacific And 6Th Community Garden",Pacific Avenue at 6th Street,-118.19371890000,33.77414125000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90802
+220,Lago Seco Community Garden,3920 235th Street,-118.35466417000,33.81275956000,Community Garden,,Community Garden Database,Verified,null,Mary Lou Weiss 310-781-7520 MWeiss@TorranceCa.Gov,,,Torrance,CA,90505
+221,F.A.C.T. Family Adult & Child Therapies,10642 Santa Monica Blvd. #201,-118.43047412000,34.05280599000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90025
+222,F.A.C.T. Family Adult & Child Therapies,1637 Malcolm Avenue,-118.43727027000,34.05321043000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90024
+223,Fausto Garcia,16654 Chicago Ave,-118.11076994000,33.88265198000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+224,Lakewood Community Garden,6210 Candlewood Street,-118.11181323000,33.85317311000,Community Garden,,Community Garden Database,Verified,null,Mel Mueller 562-858-2239 mmueller@earthlink.net,,,Lakewood,CA,90713
+225,"Long Beach Organic, Inc. - Top Of The Town",6751 Atlantic Avenue,-118.18611228000,33.87752222000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90805
+226,Daniger Orchids,17351 Nordhoff Street,-118.51302909000,34.23580784000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91325
+227,Mansfield Fountain Community Garden,1259 N. Mansfield Avenue,-118.34050187000,34.09361321000,Community Garden,,Community Garden Database,Verified,null,Debbie Wehbe 323-573-1950 debbie.wehbe@gmail.com,,,Los Angeles,CA,90038
+228,Dave'S 4 Seasons Growers,7701 Mooney,-118.10031338000,34.04920622000,Nursery,,Nursery Database,Verified,null,,,,South San Gabriel,CA,91770
+229,David'S Nursery,909 East Sepulveda Boulevard,-118.25738331000,33.80854552000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+230,Mar Vista Community Garden,5075 S. Slauson Avenue,-118.40685601000,33.99348683000,Community Garden,,Community Garden Database,Verified,null,Llaly Hernandez 310-390-9607 lhernandez@marvistafc.org,,,Culver City,CA,90230
+231,Manzanita Street Community Garden,1101 Manzanita Street,-118.28090702000,34.09348168000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90029
+232,Deep Roots Garden Center And Florist,207 North Sepulveda Boulevard,-118.39609243000,33.88055024000,Nursery,,Nursery Database,Verified,null,,,,Manhattan Beach,CA,90266
+233,Mariposa-Nabi Community Garden,961 S. Mariposa Avenue,-118.29899293000,34.05387011000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90006
+234,Dominus Plantarum,1765 Sinaloa Avenue,-118.11586287000,34.17634999000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91104
+235,Memorial Park Community Garden,340 N. Orange Place,-117.91379905000,34.12695148000,Community Garden,,Community Garden Database,Verified,null,Melissa Hauck 504-858-7623 mshauck@gmail.com,,,Azusa,CA,91702
+236,Messiah Organic Community Garden,7300 West Manchester Avenue,-118.42254975000,33.95969257000,Community Garden,,Community Garden Database,Verified,null,Marjorie Poe 310-670-2242 messiah1907@sbcglobal.net,,,Los Angeles,CA,90045
+237,Eden Nursery,Berendo and West 126th Street,-118.27394041000,33.96409436000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90003
+238,"Long Beach Organic, Inc. - Wild Oats Garden",3709 E. 10th Street,-118.14852108000,33.77896463000,Community Garden,,Community Garden Database,Verified,null,Joe Corso 562-438-9000 Joe@LongBeachOrganic.org,,,Long Beach,CA,90804
+239,"Long Beach Organic, Inc. - Saint LukeΓÇÖS Garden",525 E. 7th Street,-118.18560856000,33.77536834000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90813
+240,Cycadia,17337 Chase Street,-118.51138688000,34.22308735000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91325
+241,"Cyclamen Growers, Incorporated",11545 Kagel Canyon Street,-118.38374608000,34.27823395000,Nursery,,Nursery Database,Verified,null,,,,Lake View Terrace,CA,91342
+242,Damas Nursery,6265 East Hereford Drive,-118.13724565000,34.00962356000,Nursery,,Nursery Database,Verified,null,,,,East Los Angeles,CA,90022
+243,Moothart Collingnon/Francis Avenue Community Garden,2909 Francis Avenue,-118.28941935000,34.05684802000,Community Garden,,Community Garden Database,Verified,null,"Tanya Torres 213-572-0188, Ext. 206 ttorres@lanlt.org",,,Los Angeles,CA,90005
+244,Esequiel Nursery,9000 Atlantic Boulevard,-118.18191656000,33.94886599000,Nursery,,Nursery Database,Verified,null,,,,South Gate,CA,90280
+245,Evergreen Nursery,7545 Mexico Way,-118.03354217000,33.85115931000,Nursery,,Nursery Database,Rejected,null,,,,Buena Park,CA,90620
+246,New City School Farm,225 E. 15th Street,-118.19030932000,33.78535753000,Community Garden,,Community Garden Database,Verified,null,Sabrina Bow 562-599-6404 sabrinabow@gmail.com,,,Long Beach,CA,90813
+247,Exotic Garden Nursery,18801 Victory Boulevard,-118.54272888000,34.18660773000,Nursery,,Nursery Database,Verified,null,,,,Reseda,CA,91335
+248,Mothers Of East La Community Garden,1020 S. Fickett Street,-118.21534040000,34.03134147000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90023
+249,Gonzalez Nursery,2214 Broach Avenue,-117.98702975000,34.12446918000,Nursery,,Nursery Database,Verified,null,,,,Duarte,CA,91010
+250,Eric Hernandez Dba Hernandez Nursery,5501 Rodeo Road,-118.36602602000,34.02158957000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90016
+251,Gonzalez Nursery,470 East Duarte Road,-117.99257879000,34.13221289000,Nursery,,Nursery Database,Verified,null,,,,Monrovia,CA,91016
+252,Norman Harriton Community Garden,2037 N. Sanborn Avenue,-118.27864815000,34.10427939000,Community Garden,,Community Garden Database,Verified,null,Terry Maloy 323-876-3031 terrymaloy@sbcglobal.net,,,Los Angeles,CA,90027
+253,Gonzalez Nursery,1007 Worcester Avenue,-118.14503235000,34.16315979000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91104
+254,North Long Beach Community Garden,6895 N. Myrtle Avenue,-118.18181416000,33.87999448000,Community Garden,,Community Garden Database,Verified,null,Joaquin Elias 562-630-5829 joaquinelias@sbcglobal.net,,,Long Beach,CA,90805
+255,North Hollywood Community Garden,11800 Weddington Street,-118.39178557000,34.16666393000,Community Garden,,Community Garden Database,Verified,null,,,,North Hollywood,CA,91607
+256,Gonzalez Nursery,12269 Pellissier Road,-118.03323564000,34.03409822000,Nursery,,Nursery Database,Verified,null,,,,Whittier,CA,90601
+257,"F.K. Nursery, Incorporated",2027 Colby Avenue,-118.44687299000,34.03807148000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,900256205
+258,Milagro Allegro Community Garden,115 S. Avenue 56,-118.19353432000,34.10845842000,Community Garden,,Community Garden Database,Verified,null,Nicole Gatto 323-256-7122 info@hpgarden.org,,,Los Angeles,CA,90042
+259,Monterey Road Eco-Community Garden - East,870 Monterey Road,-118.24403954000,34.15704972000,Community Garden,,Community Garden Database,Verified,null,Alek Bartrosouf 818-359-0108 abartrosouf@hotmail.com,,,Glendale,CA,91206
+260,Galaxy One,4711 Don Miguel Drive,-118.35752770000,34.00343571000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90008
+261,Mlk Community Peace Garden,1950 Lemon Avenue,-118.17840649000,33.79212960000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90806
+262,Green Thumb Nursery,7725 Topanga Canyon Boulevard,-118.60600185000,34.21029039000,Nursery,,Nursery Database,Verified,null,,,,Canoga Park,CA,91304
+263,Palmer Park Community Garden,610 E. Palmer Avenue,-118.24744175000,34.13261380000,Community Garden,,Community Garden Database,Verified,null,Armen Tagakchyan 818-548-2054 atagakchyan@ci.glendale.ca.us,,,Glendale,CA,91205
+264,Firever Deciduous Nursery,11022 Summit Trail,-118.37448251000,34.28997792000,Nursery,,Nursery Database,Verified,null,,,,Sylmar,CA,91342
+265,Orcutt Ranch Horticultural Center Rancho Sombra Del Roble,23600 Roscoe Boulevard,-118.64119904000,34.21913274000,Community Garden,,Community Garden Database,Verified,null,,,,West Hills,CA,91304
+266,"Hawthorne Nursery, Incorporated",4519 West El Segundo Boulevard,-118.35529922000,33.91644827000,Nursery,,Nursery Database,Verified,null,,,,Hawthorne,CA,90250
+267,Paramount (Cortland) Community Garden,7200 Cortland Avenue,-118.17473157000,33.91370851000,Community Garden,,Community Garden Database,Verified,null,David Johnson 562-220-2138 djohnson@paramountcity.com,,,Paramount,CA,90723
+268,"Hawthorne Nursery, Incorporated",4556 El Segundo Boulevard,-118.35609152000,33.91639493000,Nursery,,Nursery Database,Verified,null,,,,Hawthorne,CA,90250
+269,Pasadena Community Gardens,721 South Pasadena Avenue,-118.15412970000,34.13313116000,Community Garden,,Community Garden Database,Verified,null,"Cathy Morrison, Co-Chair 626-755-1917 info@pasadenacommunitygardens.org",,,Pasadena,CA,91105
+270,Fisher Barrie And Yvette,2929 Oakhurst Avenue,-118.39535932000,34.03560174000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90034
+271,Flora Bella Farms,Arizona & @nd Street,-118.46776124000,34.01199520000,Nursery,,Nursery Database,Verified,null,,,,Santa Monica,CA,90405
+272,Patton Street Community Garden,303 Patton Street,-118.25915428000,34.06541809000,Community Garden,,Community Garden Database,Verified,null,Margarita Hernandez 213-250-8304 mfernandez7@yahoo.com,,,Los Angeles,CA,90026
+273,Flowers By Imrana Ashraf,808 East Baseline Road,-117.79161976000,34.12112297000,Nursery,,Nursery Database,Verified,null,,,,San Dimas,CA,91773
+274,Foothill Nursery,10456 Foothill Boulevard,-118.35764308000,34.27395299000,Nursery,,Nursery Database,Verified,null,,,,Lake View Terrace,CA,91342
+275,Pea Patch Community Garden,1200 Meadows Ave,-118.39171642000,33.88833381000,Community Garden,,Community Garden Database,Verified,null,,,,Manhattan Beach,CA,90266
+276,Oakland Community Garden,N. Oakland Avenue and E. Maple Street,-118.13994905000,34.15235033000,Community Garden,,Community Garden Database,Verified,null,Terry Allen 626-796-6878 smorgan4@gmail.com,,,Pasadena,CA,91101
+277,Norwich Community Garden,417 Norwich Drive,-118.38070640000,34.07942415000,Community Garden,,Community Garden Database,Verified,null,,,,West Hollywood,CA,90048
+278,Green Thumb Nursery,21812 Sherman Way,-118.60335925000,34.20096345000,Nursery,,Nursery Database,Verified,null,,,,Canoga Park,CA,91303
+279,Ocean View Farms,3300 S. Centinela Avenue,-118.44193054000,34.01472864000,Community Garden,,Community Garden Database,Verified,null,Frank Harris 310-915-1123 frank@oceanviewfarms.net,,,Mar Vista,CA,90066
+280,Rancho San Pedro Community Garden,275 W. 1st Street,-118.28301724000,33.74327698000,Community Garden,,Community Garden Database,Verified,null,Veronica Mendoza 310-920-1355 veronicamendoza1@yahoo.com,,,San Pedro,CA,90731
+281,Rosecrans Farms,561 W. 146th Street,-118.28525960000,33.89964845000,Community Garden,,Community Garden Database,Verified,null,Vincent Miles 310-763-7440,,,Gardena,CA,90248
+282,Rosewood Gardens,4160 1/2 Rosewood Avenue,-118.29518128000,34.07901300000,Community Garden,,Community Garden Database,Verified,null,Nery Reyes 323-821-7748 norcjala061@yahoo.com,,,Los Angeles,CA,90004
+283,Rosemary And Thyme Community Garden,10161 Jordan Avenue,-118.60390239000,34.25474988000,Community Garden,,Community Garden Database,Verified,null,,,,Chatsworth,CA,91311
+284,San Pedro Gardens,1400 N. Gaffey Street,-118.29223010000,33.75697918000,Community Garden,,Community Garden Database,Verified,null,Kathie Dixon 562-964-8837 kpdpoet3@hotmail.com,,,San Pedro,CA,90731
+285,Home Grown Gardens,8228 Steward Ave,-118.40869054000,33.96360405000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90045
+286,Fox Nurseries,1350 South Garey Avenue,-117.74964588000,34.04666137000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,91766
+287,Frank S. Chiodo,19720 West Avenue B,-118.47785952000,34.80359343000,Nursery,,Nursery Database,Verified,null,,,,Lancaster,CA,93536
+288,Fuji Bonsai Nursery,13170 Glenoaks Boulevard,-118.45237192000,34.30969368000,Nursery,,Nursery Database,Verified,null,,,,Sylmar,CA,91342
+289,Fujiyama Nursery,20813 East Valley Boulevard,-117.85041542000,34.01536669000,Nursery,,Nursery Database,Verified,null,,,,Walnut,CA,91789
+290,Fuku Bonsai Nursery,550 168th Street,-118.28974516000,33.87918216000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+291,Santa Clarita Community Garden,27234 Bouquet Canyon Road,-118.52115495000,34.43549845000,Community Garden,,Community Garden Database,Verified,null,Carol 661-263-8482 communitygardensofsc@gmail.com,,,Santa Clarita,CA,91350
+292,G.M. Nursery,2563 Angelus Avenue,-118.08717783000,34.05835853000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+293,"International Plant Growers, Incorporated",24501 Figueroa Street,-118.28396508000,33.80439968000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+294,Pico Rivera Community Garden,8606 Beverly Road,-118.08788884000,34.00949988000,Community Garden,,Community Garden Database,Verified,null,Lupe Aguilar 562-801-4458 lupaguilar@pico-rivera.org,,,Pico Rivera,CA,90660
+295,Pomona Community Garden,1170 W. Fremont Street,-117.76421376000,34.04245014000,Community Garden,,Community Garden Database,Verified,null,South Hills Church 909-629-4205,,,Pomona,CA,91766
+296,Project Youth Green,12467 W. Osborne Street,-118.40469586000,34.25775290000,Community Garden,,Community Garden Database,Verified,null,David Kietzman 818-890-2928 david@youthspeakcollective.org,,,Los Angeles,CA,91331
+297,Proyecto Jardin,1718 Bridge Street,-118.21661162000,34.05189455000,Community Garden,,Community Garden Database,Verified,null,Irene Pena 323-774-7824 irenetothemax@yahoo.com,,,Los Angeles,CA,90033
+298,Queen Park Learning Garden,652 E. Queen Street,-118.34492299000,33.96261162000,Community Garden,,Community Garden Database,Verified,null,323-952-3466 info@sjli-cp.org,,,Inglewood,CA,90301
+299,Sepulveda Garden Center,16633 Magnolia Boulevard,-118.49550040000,34.16495650000,Community Garden,,Community Garden Database,Verified,null,Veltorina Lauterio 818-784-5180 sepulveda.gardencenter@lacity.org,,,Encino,CA,91316
+300,Garibaldo'S Nursery,8834 Rose Street,-118.14349582000,33.86953874000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+301,Solano Canyon Community Garden,545 Solano Avenue,-118.23143010000,34.07418256000,Community Garden,,Community Garden Database,Verified,null,India Luduena 213-215-1772 isluduena@yahoo.com,,,Los Angeles,CA,90012
+302,"Girasol Nursery, Incorporated",8555 Spruce Street,-118.08904289000,34.00540393000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+303,Stanford Avalon Community Garden,658 E. 111th Place,-118.26377086000,33.93417627000,Community Garden,,Community Garden Database,Verified,null,Pedro Barrera (MG) 323-979-6935 pedro_barrera1127@yahoo.com,,,Los Angeles,CA,90059
+304,Golden Oak Ranch Properties,19802 Placerita Canyon Road,-118.48378382000,34.37572276000,Nursery,,Nursery Database,Verified,null,,,,Newhall,CA,91321
+305,Jauregui Nursery,950 East Claude,-118.25922978000,33.88372321000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90746
+306,St. Luke'S Garden,524 E. 7th Street,-118.18558896000,33.77531307000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90813
+307,Jauregui Nursery,20300 Main,-118.28010118000,33.84738273000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+308,Jauregui Nursery,550 West 157th Street,-118.28457081000,33.88901430000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+309,Summit Avenue,1282 N. Summit Avenue,-118.14763612000,34.16782187000,Community Garden,,Community Garden Database,Verified,null,,,,Pasadena,CA,91103
+310,Jauregui Nursery,6741 Del Amo Boulevard,-118.10034874000,33.84606930000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+311,Tarzana Community Garden,18702 Erwin Street,-118.54066941000,34.18385361000,Community Garden,,Community Garden Database,Verified,null,,,,San Fernando Valley,CA,91335
+312,The Learning Garden,1300 Venice Blvd.,-118.28222109000,34.04290490000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90006
+313,El Sereno Community Garden,5466 Huntington Drive,-118.16162329000,34.09249662000,Community Garden,,Community Garden Database,Verified,null,Marie Salas 323-227-1409 marielna@sbcglobal.net,,,Los Angeles,CA,90032
+314,"International Plant Growers, Incorporated",24500 Vermont Avenue,-118.29034729000,33.80165915000,Nursery,,Nursery Database,Verified,null,,,,Harbor City,CA,90710
+315,Garden View,12900 Lower Azusa Road,-117.99295303000,34.09186417000,Nursery,,Nursery Database,Verified,null,,,,Irwindale,CA,91706
+316,Seeds Of Carver Community Garden,2319 Second Avenue,-118.31893265000,34.03574044000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90018
+317,Gardena Hills Nursery,12597 Budlong Street,-118.29643950000,33.91843631000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90044
+318,Green Spot Nursery,12340 Stagg Street,-118.40195963000,34.21205716000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+319,Van Nuys Garden Center,16400 Chase Street,-118.48964637000,34.22475555000,Community Garden,,Community Garden Database,Verified,null,Scott Wyskocil 818-893-7002 scooterw1@verizon.net,,,North Hills,CA,91343
+320,Green Thumb Garden Nursery,17915 South Western Avenue,-118.30919240000,33.86803022000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+321,"Green Thumb International, Incorporated",23734 North San Fernando Road,-118.51490940000,34.37089387000,Nursery,,Nursery Database,Verified,null,,,,Newhall,CA,91321
+322,Venice Community Garden,643 Mildred Avenue,-118.46188134000,33.98726246000,Community Garden,,Community Garden Database,Verified,null,Kip Wood 310-578-1975 kipwood23@gmail.com,,,Venice,CA,90291
+323,Vermont Square Community Garden,4712 S. Vermont Avenue,-118.29150679000,34.00009067000,Community Garden,,Community Garden Database,Verified,null,Tamiko Nakamoto 213-399-1476 tamikomg2010@yahoo.com,,,Los Angeles,CA,90037
+324,Jauregui Nursery,7200 Wardlow Road,-118.09265102000,33.81879860000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90808
+325,Jauregui Nursery,6970 Via Del Rio Street,-118.09685337000,33.78807894000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90815
+326,Green Touch Nursery,8842 Park Street,-118.14347871000,33.87835323000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+327,Vista Hermosa Gardens,1590 E. 114th Street,-118.24652603000,33.93108718000,Community Garden,,Community Garden Database,Verified,null,Lucil Hooper 323-566-9850,,,Los Angeles,CA,90059
+328,Green Valley Wholesale Nursery,11205 Victory Blvd,-118.37495123000,34.18672855000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91606
+329,Wattles Farm,1714 N. Curson Avenue,-118.35501155000,34.10199105000,Community Garden,,Community Garden Database,Verified,null,Toby Leaman 323-663-7441 admin@wattlesfarm.com,,,Los Angeles,CA,90046
+330,"Green View Nursery, Incorporated",18590 Lassen Street,-118.53769966000,34.24997358000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91324
+331,Greenlee And Associates,160 East Franklin Avenue,-117.74865868000,34.04055287000,Nursery,,Nursery Database,Verified,null,,,,Pomona,CA,91766
+332,Trend Community Garden,43100 North Alexo Drive,-118.19634712000,34.66232162000,Community Garden,,Community Garden Database,Verified,null,,,,Lancaster,CA,93536
+333,Green Arrow Nursery,8845 Sepulveda,-118.44633988000,34.20237410000,Nursery,,Nursery Database,Verified,null,,,,Sepulveda,CA,91405
+334,Union Avenue/Cesar Chavez Community Garden,1136 S. Union Avenue,-118.27568369000,34.04670333000,Community Garden,,Community Garden Database,Verified,null,Patty Gastelum 213-381-3747 pattygastelum@yahoo.com,,,Los Angeles,CA,90015
+335,Ujima Farm Project,941 E. 126th Street,-118.25828597000,33.91884807000,Community Garden,,Community Garden Database,Verified,null,,,,Los Angeles,CA,90059
+336,Green Leaf Nursery,10490 Washington Boulevard,-118.08195322000,33.97488629000,Nursery,,Nursery Database,Verified,null,,,,Whittier,CA,90606
+337,Grower Gallo Nursery,15410 E. Gale Ave,-117.97133718000,34.01337411000,Nursery,,Nursery Database,Verified,null,,,,Hacienda Heights,CA,91745
+338,Guy B. Wrinkle Exotic Plants,2140 Warmlands Avenue,-117.21856887000,33.23267362000,Nursery,,Nursery Database,Rejected,null,,,,Vista,CA,92084
+339,"H And H Nursery, Incorporated",6220 Lakewood Boulevard,-118.14243633000,33.86807966000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90712
+340,Fox & Laurel Park And Community Garden,14353 Fox Street,-118.44574595000,34.27189824000,Community Garden,,Site Survey,Verified,null,,,,Pacoima,CA,91340
+341,Hashimoto Nursery,1935 Sawtelle Boulevard,-118.44422260000,34.04156105000,Nursery,,Nursery Database,Verified,null,,,,West Los Angeles,CA,90025
+342,Mc Francis Community Garden,2909 Francis Ave,-118.28941935000,34.05684802000,Community Garden,,Site Survey,Verified,null,,,,Los Angeles,CA,90005
+343,Javier'S Nursery,610 East Carson Plaza Drive,-118.26404149000,33.84534377000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90746
+344,Unidad Park And Community Garden,1644 Beverly Boulevard,-118.26445040000,34.06399499000,Community Garden,,Site Survey,Verified,null,,,,Los Angeles,CA,90026
+345,Javier'S Nursery,920 East 213th Street,-118.25868264000,33.83535046000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+346,West Athens Victory Garden,10500 South Normandie,-118.30025356000,33.94100029000,Community Garden,,Site Survey,Verified,null,,,,West Athens,CA,90044
+347,Hill Grove Wholesale Nursery,455 Floral Drive,-118.13831887000,34.03821711000,Nursery,,Nursery Database,Verified,null,,,,Monterey Park,CA,91754
+348,El Cariso Little Green Fingers Children'S Garden,13100 Hubbard St,-118.41830958000,34.31803880000,Community Garden,,Site Survey,Verified,null,,,,Sylmar,CA,91342
+349,Hilltop Nursery,1919 Skyline Vista Drive,-117.93273281000,33.96434999000,Nursery,,Nursery Database,Verified,null,,,,La Habra Heights,CA,90631
+350,Mariposa Little Green Fingers Children'S Garden,965 South Mariposa Ave,-118.29898482000,34.05365834000,Community Garden,,Site Survey,Verified,null,,,,Los Angeles,CA,90007
+351,Willowbrook Community Garden,644 E. 120th Street,-118.26350866000,33.92369314000,Community Garden,,Community Garden Database,Verified,null,Rose Pinkney 323-757-1184 willowbrookcommunitygarden@gmail.com,,,Los Angeles,CA,90059
+352,"Greenshower Nursery, Incorporated",2040 Desire Avenue,-117.89410863000,33.98120225000,Nursery,,Nursery Database,Verified,null,,,,Rowland Heights,CA,91748
+353,Winston Smoyer Memorial Community Garden,1006 Clay Court/901 E Mission Rd,-118.11370736000,34.09464675000,Community Garden,,Community Garden Database,Verified,null,Felipe Huizar 626-570-3208 fhuizar.cityofalhambra@gmail.com,,,Alhambra,CA,91801
+354,Greenthumb,2481 Lillyvale Avenue,-118.16451286000,34.07646139000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90032
+355,Throop Learning Garden,300 S. Los Robles Ave,-118.14132469000,34.14031252000,Community Garden,,Site Survey,Verified,null,,,,Pasadena,CA,91101
+356,Greystone Mansion Demonstration Garden,905 Loma Vista Drive,-118.39977732000,34.09228088000,Community Garden,,Site Survey,Verified,null,,,,Beverly Hills,CA,90210
+357,Humedo Nursery,10040 Imperial Highway,-118.11237900000,33.91679956000,Nursery,,Nursery Database,Verified,null,,,,Downey,CA,90242
+358,Cedar Ridge Community Garden,2105 East Avenue J-8,-118.09228906000,34.68236765000,Community Garden,,Site Survey,Verified,null,,,,Lancaster,CA,93535
+359,Huntington Botanical Gardens,1151 Oxford Road,-118.10944980000,34.12764829000,Nursery,,Nursery Database,Verified,null,,,,San Marino,CA,91108
+360,Hurtado'S Nursery,9635 Whittier Blvd.,-118.07342362000,33.99659298000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+361,Compton Community Organic Garden,1317 S. Long Beach Blvd.,-118.20583056000,33.88444074000,Community Garden,,VFG-LA,Verified,null,,,,Compton,CA,90221
+362,"I.T. Nursery, Incorporated",256 East Alondra Boulevard,-118.27193887000,33.88571349000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+363,Detroit St. Community Garden,1201 N. Detroit St.,-118.34522213000,34.09267028000,Community Garden,,VFG-LA,Verified,null,,,,West Hollywood,CA,90046
+364,Kenyon Landscapes,14899 Chatsworth,-118.45739144000,34.26744610000,Nursery,,Nursery Database,Verified,null,,,,Mission Hills,CA,91345
+365,Pasadena Community Garden,721 S. Pasadena Ave.,-118.15412970000,34.13313116000,Community Garden,,VFG-LA,Verified,null,,,,Pasadena,CA,91105
+366,Kenyon Landscapes,9816 Burnet Avenue,-118.46300612000,34.24860992000,Nursery,,Nursery Database,Verified,null,,,,Sepulveda,CA,91343
+367,Ramona Gardens Community Garden,Lancaster Ave.,-118.19598781000,34.05752755000,Community Garden,,VFG-LA,Verified,null,,,,Los Angeles,CA,90033
+368,Santa Monica- Euclid Park Community Garden,1525 Euclid Street,-118.48452047000,34.02151293000,Community Garden,,VFG-LA,Verified,null,,,,Santa Monica,CA,90404
+369,Santa Monica- Main Street Community Garden,2300 Main Street,-118.48658478000,34.00479713000,Community Garden,,VFG-LA,Verified,null,,,,Santa Monica,CA,90405
+370,Villa-Parke Little Green Fingers Children'S Garden,363 E Villa St,-118.14316674000,34.15418853000,Community Garden,,Site Survey,Verified,null,,,,Pasadena,CA,91101
+371,Junior'S Nursery,18810 Hatteras Street,-118.54294216000,34.17709592000,Nursery,,Nursery Database,Verified,null,,,,Tarzana,CA,91335
+372,Free-Food Garden At Arroyo Food Co-Op,494 N Wilson Ave.,-118.12813580000,34.15455126000,Community Garden,,Site Survey,Verified,null,,,,Pasadena,CA,91106
+373,"Horizon Nursery, Incorporated",9919 Cedardale Avenue,-118.09302476000,33.94948283000,Nursery,,Nursery Database,Verified,null,,,,Santa Fe Springs,CA,90670
+374,Fremont Wellness Center Community Garden,7821 S. Avalon Blvd.,-118.26519728000,33.96816788000,Community Garden,,VFG-LA,Verified,null,,,,Los Angeles,CA,90002
+375,"Jackson Shrub Supply, Incorporated",11505 Vanowen Street,-118.38259920000,34.19396799000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+376,Jake'S Nursery,13527 Los Angeles Street,-117.97855991000,34.09209801000,Nursery,,Nursery Database,Verified,null,,,,Baldwin Park,CA,91706
+377,"James H. Cowan And Associates, Incorporated",29243 Pacific Coast Highway,-118.81150604000,34.02088472000,Nursery,,Nursery Database,Verified,null,,,,Malibu,CA,90265
+378,"Kobata Growers, Incorporated",20300 Figueroa Incorporated,-118.28420329000,33.84731060000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+379,"Kobata Growers, Incorporated",17622 Van Ness Avenue,-118.31779627000,33.87079017000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+380,Loretta Allison Dba Spade And Seeds,600 W. Palm Street,-118.15785049000,34.20026625000,Nursery,,Nursery Database,Verified,null,,,,Altadena,CA,91001
+381,Loretta Allison Dba Spade And Seeds,1038 Montrose Ave,-118.14271788000,34.11503337000,Nursery,,Nursery Database,Verified,null,,,,South Pasadena,CA,91030
+382,M And G Gallo Nursery,35740 82nd Street East,-117.98365764000,34.53098020000,Nursery,,Nursery Database,Verified,null,,,,Littlerock,CA,93543
+383,"M.B. Nursery And Landscaping, Incorporated",20300 South Figueroa Street,-118.28420329000,33.84731060000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+384,"M.B. Nursery And Landscaping, Incorporated",17191 Billings Drive,-118.27194841000,33.87565937000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90746
+385,Wlimington Community Garden,East L Street,-118.25291350000,33.78725002000,Community Garden,,VFG-LA,Verified,null,,,,Wilmington,CA,90744
+386,Eastwind Community Garden,110 Eastwind Street,-118.46316580000,33.97724530000,Community Garden,,VFG-LA,Verified,null,Peggy Robinson 323-213-9705 Eastwindgardens@gmail.com,,,Marina Del Rey,CA,90292
+387,Jorge'S Nursery,100 East Greenleaf Boulevard,-118.22196880000,33.88114000000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90220
+388,Eastmont Community Garden,701 Hoefner Ave.,-118.14981098000,34.02089055000,Community Garden,,VFG-LA,Verified,null,Laura Torres 213-797-6547 ltorres@lanlt.org,,,Los Angeles,CA,90022
+389,Villa Parke Community Garden,363 E. Villa St.,-118.14316674000,34.15418853000,Community Garden,,VFG-LA,Verified,null,,,,Pasadena,CA,91101
+390,Fox & Laurel Park Community Garden,14353 Fox St.,-118.44574595000,34.27189824000,Community Garden,,VFG-LA,Verified,null,,,,Pacoima,CA,91340
+391,Gaffey Street Gardens,1400 N. Gaffey Street,-118.29223010000,33.75697918000,Community Garden,,VFG-LA,Verified,null,,,,San Pedro,CA,90731
+392,Alan Hjelm Community Garden,725 E. Avenue J,-118.14135769000,34.68948467000,Community Garden,,VFG-LA,Verified,null,,,,Lancaster,CA,93534
+393,Just Liners,901 Covina Boulevard,-117.82507754000,34.09949756000,Nursery,,Nursery Database,Verified,null,,,,San Dimas,CA,91773
+394,Norwalk Community Garden,12719 Studebaker Rd,-118.09934279000,33.91504148000,Community Garden,,VFG-LA,Verified,null,,,,Norwalk,CA,90650
+395,Kamdibe'S Backyard Nursery,547 Armitos Place,-117.78795071000,34.02046979000,Nursery,,Nursery Database,Verified,null,,,,Diamond Bar,CA,91765
+396,The Growing Experience,750 E. Via Carmelitos,-118.18381247000,33.84763795000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90805
+397,Mona Lisa'S,5134 N. Irwindale,-117.93411458000,34.10607971000,Nursery,,Nursery Database,Verified,null,,,,Irwindale,CA,91706
+398,A And R Nursery,4128 San Gabriel River Parkway,-118.06853225000,34.01114563000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+399,Khiem Doan,4520 Ivar Avenue,-118.07480625000,34.08656063000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+400,A And R Nursery,7950 Graves Avenue,-118.09524174000,34.05466295000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+401,Kimura Wholesale Bonsai And Landscape Nursery,17230 Roscoe Boulevard,-118.50862925000,34.22111296000,Nursery,,Nursery Database,Verified,null,,,,Northridge,CA,91325
+402,"Abc Nursery, Incorporated",6800 Darwell Avenue,-118.15345508000,33.96901098000,Nursery,,Nursery Database,Verified,null,,,,Bell Gardens,CA,90201
+403,Moon Valley Nurseries Of California,2100 Greenwood Ave,-118.10820025000,34.03950272000,Nursery,,Nursery Database,Verified,null,,,,Monterey Park,CA,91755
+404,"Abc Nursery, Incorporated",20200 Studebaker,-118.09880563000,33.84742868000,Nursery,,Nursery Database,Verified,null,,,,Cerritos,CA,90703
+405,Moon Valley Nurseries Of California,11745 Sherman Way,-118.38926199000,34.20122970000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+406,"Abc Nursery, Incorporated",424 East Gardena Blvd,-118.26814860000,33.88221343000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+407,Elm Avenue Community Garden,44748 Elm Ave.,-118.14169663000,34.69577580000,Community Garden,,VFG-LA,Verified,null,,,,Lancaster,CA,93534
+408,El Cariso Mountain Community Garden,13100 Hubbard St.,-118.41830958000,34.31803880000,Community Garden,,VFG-LA,Verified,null,,,,Sylmar,CA,91342
+409,Js Nursery,6202 Ashworth Street,-118.12073207000,33.86794518000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+410,Emerson Avenue Community Garden,8050 Emerson Ave.,-118.40492235000,33.96708731000,Community Garden,,Site Survey,Verified,null,Dorothy Stone 310-337-0827 eacgc@yahoo.com,,,Los Angeles,CA,90045
+411,Juarez Nursery,6375 Wheeler Ave,-117.77302563000,34.13674607000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+412,Legacy Cork Oaks,14620 E. Edgeridge Drive,-117.99497947000,33.99870394000,Nursery,,Nursery Database,Verified,null,,,,Hacienda Heights,CA,91745
+413,"Abc Nursery, Incorporated",18601 Yukon Avenue,-118.33516851000,33.86157006000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+414,Libby P. Li,725 South 6th Street,-118.12941205000,34.08456059000,Nursery,,Nursery Database,Verified,null,,,,Alhambra,CA,91801
+415,"Acosta Growers, Incorporated.",5359 Citrus Avenue,-117.89020839000,34.11412201000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91702
+416,"Acosta Growers, Incorporated.",669 South Azusa Avenue,-117.90775980000,34.11083747000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91702
+417,Littlerock Tree Farm,35803 77th Street East,-117.99256247000,34.53170083000,Nursery,,Nursery Database,Verified,null,,,,Littlerock,CA,93543
+418,"Acosta Growers, Incorporated.",1050 East Gladstone,-117.88432150000,34.11404193000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91702
+419,Logan'S Nursery,1646 McCollum Place,-118.26548721000,34.08712388000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90026
+420,"Acosta Growers, Incorporated.",2458 Charlotte Avenue,-118.08824820000,34.05608590000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+421,"Lomita Plant Growers, Inc",835 East Lomita Boulevard,-118.25953583000,33.79942568000,Nursery,,Nursery Database,Verified,null,,,,Wilmington,CA,90744
+422,"Acosta Growers, Incorporated.",2657 Delta Avenue,-118.08632507000,34.06009631000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+423,New West Growers Incorporated,110 West Greenleaf Avenue,-118.20155567000,33.89533372000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90221
+424,"Armstrong Garden Centers, Incorporated",5816 San Fernando Road,-118.27811103000,34.15756232000,Nursery,,Nursery Database,Verified,null,,,,Glendale,CA,91203
+425,New West Growers Incorporated,708 East Greenleaf,-118.21525220000,33.88121557000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90221
+426,"Armstrong Garden Centers, Incorporated",1350 East Route 66,-117.84007861000,34.12874314000,Nursery,,Nursery Database,Verified,null,,,,Glendora,CA,91740
+427,La Crescenta Nursery,3654 La Crescenta Avenue,-118.24001643000,34.20660456000,Nursery,,Nursery Database,Verified,null,,,,Glendale,CA,91208
+428,"Abc Nursery, Incorporated",6221 Clark Avenue,-118.13376479000,33.85805795000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90702
+429,La Sanchez,16525 Circle Hill Lane,-117.95020901000,33.98572573000,Nursery,,Nursery Database,Verified,null,,,,Hacienda Heights,CA,91745
+430,"Abc Nursery, Incorporated",7132 Somerset,-118.17459507000,33.89628270000,Nursery,,Nursery Database,Verified,null,,,,Paramount,CA,90723
+431,Lopez Nursery,11763 Rialto Street,-118.38891633000,34.22830422000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+432,"Armstrong Garden Centers, Incorporated",635 West Huntington Drive,-118.01355000000,34.14036804000,Nursery,,Nursery Database,Verified,null,,,,Monrovia,CA,91016
+433,Lucky Plants Nursery,17715 Amie Ave.,-118.34821731000,33.86971866000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+434,"Armstrong Garden Centers, Incorporated",12920 Magnolia Boulevard,-118.37128035000,34.16488378000,Nursery,,Nursery Database,Verified,null,,,,North Hollywood,CA,91605
+435,"Armstrong Garden Centers, Incorporated",352 East Glenarm Street,-118.14289945000,34.12754265000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91106
+436,"Lucky Tree, Incorporated",2147 Desire Avenue,-117.89381958000,33.98023953000,Nursery,,Nursery Database,Verified,null,,,,Rowland Heights,CA,91748
+437,"Norman'S Nursery, Incorporated",8545 East Broadway Avenue North,-118.09338192000,34.08810813000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91776
+438,"Norman'S Nursery, Incorporated",8665 East Duarte Road South,-118.08346701000,34.11625722000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91775
+439,"Armstrong Garden Centers, Incorporated",25255 Crenshaw Boulevard,-118.32968554000,33.79438215000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90505
+440,"Norman'S Nursery, Incorporated",1601 North Loma Avenue,-118.06860305000,34.04215862000,Nursery,,Nursery Database,Verified,null,,,,South El Monte,CA,91733
+441,"Armstrong Garden Centers, Incorporated",7540 South Sepulveda Boulevard,-118.39476201000,33.97228331000,Nursery,,Nursery Database,Verified,null,,,,Westchester,CA,90045
+442,Macias Nursery Company,15594 Bledsoe Street,-118.47115053000,34.30002050000,Nursery,,Nursery Database,Verified,null,,,,Sylmar,CA,91342
+443,Ayon Nursery,16448 Halliburton Road,-117.94987794000,33.99458928000,Nursery,,Nursery Database,Verified,null,,,,Hacienda Heights,CA,91745
+444,Magic Growers,2795 Eaton Canyon Drive,-118.09315492000,34.17445305000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91107
+445,Ayon Nursery,7044 Long Beach Boulevard,-118.20473621000,33.88102244000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+446,"Armstrong Garden Centers, Incorporated",1515 Foothill Boulevard,-118.21071758000,34.20929575000,Nursery,,Nursery Database,Verified,null,,,,La Canada,CA,91011
+447,Louis Tran Dba Tran Nurseries,3612 Marybeth Avenue,-118.06117666000,34.07495321000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+448,"Armstrong Garden Centers, Incorporated",3842 East 10th Street,-118.14683891000,33.77891336000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90804
+449,Lucky Plants,902 East Sepulveda Boulevard,-118.25749730000,33.80837023000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90745
+450,Martinez Nursery,5761 Ashworth,-118.11958056000,33.86797985000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+451,"A.Y. Nursery, Incorporated",10115 South Garfield Avenue,-118.16738073000,33.93834004000,Nursery,,Nursery Database,Verified,null,,,,South Gate,CA,90280
+452,"Boething Treeland Farms, Incorporated",16029 East Avenue R,-117.84354502000,34.57256928000,Nursery,,Nursery Database,Verified,null,,,,Llano,CA,93544
+453,Boulevard Greenhouse,709 East Baseline Road,-117.79360624000,34.12117425000,Nursery,,Nursery Database,Verified,null,,,,San Dimas,CA,91773
+454,Boulevard Greenhouse,1143 South San Gabriel Boulevard,-118.09085314000,34.08644058000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91776
+455,Abeja Nursery,18601 Ermanita Avenue,-118.33252145000,33.86186272000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+456,Calscape Growers,1969 0akwood Street,-118.12187205000,34.16912031000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91104
+457,Cazares Nursery,15722 Butler,-118.20155567000,33.89533372000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90221
+458,Centenos Nursery And Landscaping,17514 South Figueroa,-118.28163225000,33.87169858000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+459,Centenos Nursery And Landscaping,17600 South Western Avenue,-118.30913202000,33.87102186000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+460,Acton Nursery Landscape,3324 Soledad Canyon Rd.,-118.19679083000,34.46613828000,Nursery,,Nursery Database,Verified,null,,,,Soledad,CA,93510
+461,Afb Enterprise Inc Dba Greenshower Nursery,2320 Desire Avenue,-117.89286852000,33.97776163000,Nursery,,Nursery Database,Verified,null,,,,Rowland Heights,CA,91748
+462,Mel-O-Dee Garden Center,21333 Devonshire Street,-118.59640926000,34.25726857000,Nursery,,Nursery Database,Verified,null,,,,Chatsworth,CA,91311
+463,Mezcala Nursery,6901 Orange Avenue,-118.17745039000,33.87890565000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+464,Olympic High,721 Ocean Park Blvd,-118.47688462000,34.00666618000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Santa Monica,CA,90405
+465,"Malibu Coast, Incorporated",2468 Troutdale Drive,-118.78125030000,34.11838283000,Nursery,,Nursery Database,Verified,null,,,,Agoura Hills,CA,91301
+466,A.J. Nursery,1600 South Wilmington Avenue,-118.23651855000,33.88064574000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90220
+467,Mariposa Garden,6664 South Street,-118.10493190000,33.85828138000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+468,A.V. Gardens And Turf,35906 85th Street,-117.97925328000,34.53388610000,Nursery,,Nursery Database,Verified,null,,,,Littlerock,CA,93543
+469,Miyako Nursery,552 W 140 St,-118.32460302000,33.90451389000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+470,Portola Middle,5250 Crebs Avenue,-118.54459161000,34.16599406000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Tarzana,CA,91356
+471,"Okada Nursery, Incorporated",18715 South Western Avenue,-118.30920026000,33.86064819000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+472,Rancho Vista Elementary,4323 Palos Verdes Drive North,-118.35715388000,33.78615068000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Rancho Palos Verdes,CA,90274
+473,"Okada Nursery, Incorporated",6229 Bellflower Boulevard,-118.12524819000,33.86826661000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+474,Riverside Drive Charter,13061 Riverside Drive,-118.41723964000,34.15765854000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Sherman Oaks,CA,91423
+475,"Moneta Nursery, Incorporated",13633 South Vermont Avenue,-118.29196251000,33.90748075000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+476,Robert Stevenson Elementary,3333 Oak Street,-118.29706972000,34.19283173000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Burbank,CA,91501
+477,Monica Nursery,266 Cloverleaf Drive,-118.00232071000,34.05863596000,Nursery,,Nursery Database,Verified,null,,,,Baldwin Park,CA,91706
+478,Rolling Hills Preparatory School,1 Rolling Hills Prep Way┬á┬á,-118.30154480000,33.77993947000,School Garden,"Middle School, High School",2015 Master Gardeners List,Verified,null,,,,San Pedro,CA,90732
+479,Monrovia Growers / Attn: Teresa Rodriquez,18331 East Foothill Boulevard,-117.89196602000,34.13349647000,Nursery,,Nursery Database,Verified,null,,,,Azusa,CA,91702
+480,Roosevelt Elementary,700 N Bradfield,-118.20404633000,33.90030428000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Compton,CA,90221
+481,Moringa Farms Inc,17446 Cohasset Street,-118.51338924000,34.20682368000,Nursery,,Nursery Database,Verified,null,,,,Van Nuys,CA,91406
+482,Rosa Parks Elementary,3898 Agnes Avenue,-118.20184298000,33.91718697000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Lynwood,CA,90262
+483,Moss Factory,1895 262nd Street,-118.31246984000,33.78522815000,Nursery,,Nursery Database,Verified,null,,,,Lomita,CA,90717
+484,Pacifica Montessori,6585 Green Valley Circle,-118.38555043000,33.97889054000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Culver City,CA,90230
+485,Milo'S Plants 2 U,33650 Sierra Vallejo Road,-118.35302646000,34.51194177000,Nursery,,Nursery Database,Verified,null,,,,Canyon Country,CA,91390
+486,"Mimosa Nursery, La",6270 Allston Street,-118.13676998000,34.01520644000,Nursery,,Nursery Database,Verified,null,,,,East Los Angeles,CA,90022
+487,Playa Del Rey Elementary,12221 Juniette St,-118.40967541000,33.98200412000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Culver City,CA,90230
+488,N.K. Nursery,780 South Stimson Avenue,-117.95449632000,34.01190673000,Nursery,,Nursery Database,Verified,null,,,,City Of Industry,CA,91745
+489,Schurr High,820 North Wilcox Avenue,-118.12439944000,34.02915001000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Montebello,CA,90640
+490,Nagel Landscape Nursery,6432 Busch Drive,-118.81858658000,34.01817139000,Nursery,,Nursery Database,Verified,null,,,,Malibu,CA,90265
+491,"Nakayama Nursery, Incorporated",1341 West 141st Street,-118.29969614000,33.90380132000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+492,St. Cornelius School,3300 N Bellflower Blvd,-118.12499589000,33.81805037000,School Garden,K-8,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90808
+493,Neighborhood Garden Succulent Nursery,1924 N. Van Ness Ave,-118.31581605000,34.10603997000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90068
+494,St. Paul'S Elementary,11330 McCormick Street,-118.37819004000,34.16591275000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,North Hollywood,CA,91601
+495,Orchid Garden,2506 Ardmore Avenue,-118.39820436000,33.87233798000,Nursery,,Nursery Database,Verified,null,,,,Hermosa Beach,CA,90254
+496,St. Stephen'S Episcopal Church,6125 Carlos Avenue,-118.32325907000,34.10284761000,School Garden,Headstart,2015 Master Gardeners List,Verified,null,,,,Hollywood,CA,90028
+497,Nick'S Nursery,11800 Roscoe Boulevard,-118.39095871000,34.22159709000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+498,Stars Tutoring,1480 East Washington Blvd.┬á,-118.12006145000,34.16905682000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91104
+499,Pansy Corporation,9433 Lemon Avenue,-118.06607301000,34.11700752000,Nursery,,Nursery Database,Verified,null,,,,Temple City,CA,91780
+500,Sycamore School,3504 Las Flores Canyon Road,-118.63900903000,34.04575110000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Malibu,CA,90265
+501,"Nuccio'S Nurseries, Incorporated",3555 Chaney Trail,-118.14870257000,34.20560105000,Nursery,,Nursery Database,Verified,null,,,,Altadena,CA,91001
+502,Sylmar High,13050 Borden Ave.,-118.44282835000,34.30725459000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Sylmar,CA,91342
+503,Mount San Antonio College,1100 North Grand Avenue,-117.84770927000,34.04315199000,Nursery,,Nursery Database,Verified,null,,,,Walnut,CA,91789
+504,San Pedro Mst Center,2201 Barrywood Ave.,-118.29638217000,33.76488633000,School Garden,K-12,2015 Master Gardeners List,Verified,null,,,,San Pedro,CA,90731
+505,Santa Monica College Organic Learning Garden,1900 Pico Blvd,-118.47039047000,34.01895646000,School Garden,College,2015 Master Gardeners List,Verified,null,,,,Santa Monica,CA,90405
+506,Santa Monica High,601 Pico Blvd.,-118.48510721000,34.01124450000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Santa Monica,CA,90405
+507,"Peter'S Garden Center, Incorporated",814 North Pacific Coast Highway,-118.38985070000,33.85353341000,Nursery,,Nursery Database,Verified,null,,,,Redondo Beach,CA,90277
+508,Venice High Learning Garden,13000 Venice Blvd,-118.44294635000,33.99886571000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90066
+509,Orchids De Oro,5939 Rodeo Road,-118.37725440000,34.02196658000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90016
+510,Vista Del Valle Elementary,550 Vista Drive,-117.72172852000,34.08671105000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Claremont,CA,91711
+511,Pacific Epiphyllum Nursery,13929 Merced Avenue,-117.97069265000,34.07943463000,Nursery,,Nursery Database,Verified,null,,,,Baldwin Park,CA,91706
+512,Pacific Nursery,15824 St. Andrews Pl.,-118.31143810000,33.88749505000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90247
+513,"Padua Tropicals, Llc",1650 Monte Vista Avenue,-117.69831636000,34.11305174000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711
+514,Walt Disney Elementary,1220 West Orange Ave,-118.32183851000,34.16985719000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Burbank,CA,91506
+515,Webster Middle,11330 Graham Pl,-118.43492641000,34.03031028000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90064
+516,Palm Depot,Cantaberry and Sunburst Under Power Line,-118.42226277000,34.25402230000,Nursery,,Nursery Database,Verified,null,,,,Arleta,CA,91331
+517,Westchester High,7400 W. Manchester Ave.,-118.42849973000,33.95967275000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90045
+518,"Palm Growers, Incorporated",17020 Downey Road,-118.15126872000,33.87969959000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+519,Westminster Ave. Elementary,1010 Abbot Kinney Blvd.,-118.47220441000,33.99211385000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Venice,CA,90291
+520,"Peter'S Garden Center, Incorporated",830 North Maria Avenue,-118.38687322000,33.85417049000,Nursery,,Nursery Database,Verified,null,,,,Redondo Beach,CA,90277
+521,Paramount Nursery,11944 Terra Vella,-118.39354822000,34.27630258000,Nursery,,Nursery Database,Verified,null,,,,Lakeview Terrace,CA,91342
+522,Topanga Elementary,22075 Topanga School Road,-118.60375383000,34.09178749000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Topanga,CA,90290
+523,Performance Nursery,2500 Manhattan Beach Boulevard,-118.36639001000,33.88729507000,Nursery,,Nursery Database,Verified,null,,,,Redondo Beach,CA,90278
+524,Kane's Family Farm,2045 Tumin Rd.,-117.94058842000,33.95970422000,Farm,,Certified Producers List,Verified,null,,,,La Habra,CA,90631
+525,Rio Verde Nursery,14809 Downey Avenue,-118.15155839000,33.89909550000,Nursery,,Nursery Database,Verified,null,,,,Paramount,CA,90723
+526,Wilshire Crest Elementary,5241 W. Olympic Blvd.,-118.34417899000,34.05727809000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90036
+527,"Premium Trees, Llc",2600 Lincoln Drive,-118.11236119000,34.01105425000,Nursery,,Nursery Database,Verified,null,,,,Montebello,CA,90640
+528,San Antonio Nursery,3250 East California Boulevard,-118.08374944000,34.13580534000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91107
+529,Ricardo'S Nursery,6850 Atlantic Avenue,-118.18598898000,33.87878227000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+530,San Antonio Nursery,11753 Wicks Street,-118.38913102000,34.23742197000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+531,Leffingwell Elementary,10625 Santa Gertrudes Ave,-117.99315222000,33.93864094000,School Garden,Elementary,LA County,Verified,null,Suzanne Mohler 562-907-6300 smohler@ewcsd.org,,,Whittier,CA,90603
+532,Rj'S Demolition & Disposal,1135 E. Florence Ave,-118.33602967000,33.97450750000,Nursery,,Nursery Database,Verified,null,,,,Inglewood,CA,90302
+533,Roots Brothers Grows,6537 Valjean Avenue,-118.48590277000,34.18969053000,Nursery,,Nursery Database,Verified,null,,,,Van Nuys,CA,91406
+534,Rj'S Demolition & Disposal,599 W. 135 Street,-118.28472818000,33.90919071000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90248
+535,Hoover Middle School,3501 Country Club Dr,-118.15149310000,33.83975754000,School Garden,Middle School,LA County,Verified,null,Jennifer Ivemeyer 562-421-1213,,,Lakewood,CA,90712
+536,Rox Garden,235 Pasadena Ave,-117.83258664000,33.74371115000,Nursery,,Nursery Database,Rejected,null,,,,Tustin,CA,92780
+537,Options Headstart - Puente,423 Shipman Avenue,-117.91315057000,34.01276624000,School Garden,Headstart,LA County,Verified,null,Christine Herrera 626-913-0317,,,La Puente,CA,91744
+538,Pine Hills Nursery,1707 S. Del Mar,-118.09898113000,34.04981639000,Nursery,,Nursery Database,Verified,null,,,,South San Gabriel,CA,91770
+539,Wild Wood Nursery,115 Castleton Drive,-117.71566979000,34.08558858000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711
+540,"Pegoji Nursery, Incorporated",15503 Roxford Street,-118.46981309000,34.31305211000,Nursery,,Nursery Database,Verified,null,,,,Sylmar,CA,91342
+541,Pedro Perez-E-P. Nursery,11378 Gaviota Avenue,-118.48235541000,34.27742103000,Nursery,,Nursery Database,Verified,null,,,,Granada Hills,CA,91344
+542,"Sakaida Nursery, Incorporated",6544 North Vista,-118.08387317000,34.11831781000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91775
+543,Wilshire Blvd Temple Garden,3663 Wilshire Boulevard,-118.30491960000,34.06175835000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90010
+544,"San Gabriel Nursery And Florists, Incorporated",632 South San Gabriel Boulevard,-118.09087645000,34.09445120000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91776
+545,"San Gabriel Nursery And Florists, Incorporated",736 South San Gabriel Boulevard,-118.09087271000,34.09379995000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91776
+546,Newmark High,134 Witmaer Street,-118.26128573000,34.06128197000,School Garden,High School,LA County,Verified,null,Mike Ulmer  562-256-6602,,,Los Angeles,CA,90026
+547,Plumeria Alegria,5842 Candlewood St.,-118.11835942000,33.85359292000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+548,Shima Nursery Wholesale Growers,8625 East Grand Avenue,-118.08104852000,34.09181571000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+549,La Merced Elementary,215 E Avenida de La Merced,-118.09472191000,34.02365279000,School Garden,Elementary,LA County,Verified,null,Erika Remedios 323-394-0143,,,Montebello,CA,90640
+550,"Sakaida Nursery, Incorporated",8626 East Grand Avenue,-118.08101750000,34.09176205000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770-1298
+551,Salazar'S Nursery,9090 Laurel Canyon Blvd.,-118.40708248000,34.23516764000,Nursery,,Nursery Database,Verified,null,,,,Sun Valley,CA,91352
+552,Walnut Grove,614 E. Vine Ave,-117.93294960000,34.05767320000,School Garden,Middle School,LA County,Verified,null,Janet Anderson 626-919-7018,,,West Covina,CA,91790
+553,"Sakaida Nursery, Incorporated",Longden and North Burton Avenues,-118.08346701000,34.11625722000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91775
+554,"Salco Growers, Incorporated",6236 Bellflower Boulevard,-118.12506883000,33.86833716000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+555,Rosa Parks Elementary School,3900 Agnes Street,-118.20163866000,33.91712808000,School Garden,Elementary,LA County,Verified,null,Rachel Gorden 310-603-1401,,,Lynwood,CA,90262
+556,"Pro Growers, Incorporated",8308 Scout Avenue,-118.15749694000,33.95478577000,Nursery,,Nursery Database,Verified,null,,,,Bell Gardens,CA,90201
+557,Shima Nursery Wholesale Growers,8500 Marshall Street,-118.08370767000,34.07486588000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+558,Rain Shadow Designs,16600 Runnymede St.,-118.49479919000,34.20619313000,Nursery,,Nursery Database,Verified,null,,,,Van Nuys,CA,91406
+559,Plants And Fruit Trees By Ramos,80406 Pico Vista Road,-118.08446400000,33.97848199000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+560,Monte Vista School,1615 West Eldred Ave,-117.94062805000,34.08165845000,School Garden,Elementary,LA County,Verified,null,Julie Serna,,,West Covina,CA,91790
+561,Sahara Nursery,14848 East Avenue J,-117.86524918000,34.69006358000,Nursery,,Nursery Database,Verified,null,,,,Lancaster,CA,93535
+562,"Plascencia Nursery, Incorporated",12920 Ramona Boulevard,-117.99012770000,34.07938206000,Nursery,,Nursery Database,Verified,null,,,,Baldwin Park,CA,91706
+563,Ramirez Cactus Canteen And Trading Post,3656 Pearblossom Highway,-118.06375945000,34.54271267000,Nursery,,Nursery Database,Verified,null,,,,Palmdale,CA,93550
+564,East Whittier Middle School,14421 Whittier Bl,-118.01716870000,33.95445131000,School Garden,Middle School,LA County,Verified,null,Gina Thieme,,,Whittier,CA,90605
+565,Santa Catalina Island Conservancy,200 Middle Ranch Road,-118.47690674000,33.37508988000,Nursery,,Nursery Database,Verified,null,,,,Avalon,CA,90704
+566,Rancho Foothill Nursery,3717 Fruit Street,-117.76173600000,34.11247143000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+567,Jefferson Elementary-Glendale,1540 Fifth Street,-118.28578902000,34.17027886000,School Garden,Elementary,LA County,Verified,null,Gagik Galfayan 818-243-4279 ggalfayan@gusd.net,,,Glendale,CA,91201
+568,Rancho Santa Ana Botanic Garden,1500 North College Avenue,-117.71408280000,34.11116658000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711-3157
+569,Santy Orchids,3172 Marwick Avenue,-118.12241659000,33.81448038000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90808
+570,Saul Medrano Jimenez,585 Glenoaks Boulevard,-118.42625484000,34.28747228000,Nursery,,Nursery Database,Verified,null,,,,San Fernando,CA,91342
+571,Senna Tree Company,11523 Mount Gleason,-118.30269785000,34.26349668000,Nursery,,Nursery Database,Verified,null,,,,Sunland,CA,91040
+572,Shear Rock Farms,329 W. Elm Avenue,-118.30717022000,34.16465282000,Nursery,,Nursery Database,Verified,null,,,,Burbank,CA,91506
+573,Shemesh Organic Farm,34342 Mulholland Hwy,-118.89851680000,34.08726344000,Nursery,,Nursery Database,Verified,null,,,,Malibu,CA,90265
+574,Sofia'S Nursery,508 East Lemon Avenue,-117.99318952000,34.14706279000,Nursery,,Nursery Database,Verified,null,,,,Monrovia,CA,91016
+575,"Temple Garden Center, Incorporated",11237 Lower Azusa Road,-118.02206135000,34.09170488000,Nursery,,Nursery Database,Verified,null,,,,El Monte,CA,91732
+576,"Shinkle & Sons Greenhouses, Inc. Dba Petunia Patch",10150 Foothill Boulevard,-118.35006254000,34.27295298000,Nursery,,Nursery Database,Verified,null,,,,San Fernando,CA,91342
+577,The Cook'S Garden,1033 Abbot Kinney Blvd.,-118.47140370000,33.99200779000,Nursery,,Nursery Database,Verified,null,,,,Venice,CA,90291
+578,Shima Nursery Wholesale Growers,8527 Valley Boulevard,-118.08272013000,34.08052789000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+579,"Rainforest Flora, Incorporated",19121 Hawthorne Boulevard,-118.35379904000,33.85797291000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90503
+580,Castelar Early Education Center,840 Yale Street,-118.24021108000,34.06431667000,School Garden,Headstart,LA County,Verified,null,"Ms.Tam 213-624-6740, 213-617-1439",,,Los Angeles,CA,90012
+581,Sofia'S Nursery,2137 East Huntington Drive,-117.95883810000,34.13981068000,Nursery,,Nursery Database,Verified,null,,,,Duarte,CA,91010
+582,Stanford Nursery,1130 Stanford Street,-118.22441927000,33.89583501000,Nursery,,Nursery Database,Verified,null,,,,Compton,CA,90223
+583,Succulents With Love,20263 Oxnard Street,-118.57535646000,34.17814722000,Nursery,,Nursery Database,Verified,null,,,,Woodland Hills,CA,91367
+584,Sunland Water Gardens,9948 Sunland Boulevard,-118.34548883000,34.25206895000,Nursery,,Nursery Database,Verified,null,,,,Sunland,CA,91040
+585,Sunnyslope Garden Nursery Inc,8638 Huntington Drive,-118.08064551000,34.12937369000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91775
+586,Sunshine Growers,16411 Wedgeworth Avenue,-117.94929012000,33.99760198000,Nursery,,Nursery Database,Verified,null,,,,Hacienda,CA,91745
+587,Sunshine Nursery,8500 Dorothy Street,-118.08359742000,34.06773613000,Nursery,,Nursery Database,Verified,null,,,,Rosemead,CA,91770
+588,Suthum Chantasirivisal,22500 Soledad Canyon Road,-118.52613303000,34.41590722000,Nursery,,Nursery Database,Verified,null,,,,Saugus,CA,91350
+589,"T.Y. Nursery, Incorporated",190th And Anza,-118.36547954000,33.85827235000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90503
+590,Tabuchi Nursery,2001 Sawtelle Boulevard,-118.44361187000,34.04084076000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90025
+591,The Growing Experience,1000 Via Wanda Avenue,-118.17551173000,33.86278120000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90805
+592,"Tierra Blanca, Incorporated",2800 Royal Oaks Drive,-117.94410195000,34.14451447000,Nursery,,Nursery Database,Verified,null,,,,Duarte,CA,91010
+593,"Tierra Blanca, Incorporated",170 S. Kinneloa Ave,-118.08627485000,34.14346688000,Nursery,,Nursery Database,Verified,null,,,,Pasadena,CA,91107
+594,"The Jungle Nursery, Inc",2007 S. Hughes Way,-118.39118885000,33.90887300000,Nursery,,Nursery Database,Verified,null,,,,El Segundo,CA,92458
+595,The Nursery,18800 Erwin Street,-118.54282426000,34.18385349000,Nursery,,Nursery Database,Verified,null,,,,Tarzana,CA,91335
+596,,1811 Parkway Dr. S,-118.02818447000,34.03948554000,Farm,,Certified Producers List,Verified,null,,,,El Monte,CA,91733
+597,Soto Nursery,600 West Alondra Boulevard,-118.28579507000,33.88536988000,Nursery,,Nursery Database,Verified,null,,,,Gardena,CA,90248
+598,Southern California Contractors,356 South 4th Ave.,-117.98945869000,34.03791996000,Nursery,,Nursery Database,Verified,null,,,,La Puente,CA,91746
+599,Specialized Growers,8406 Pico Vista Road,-118.09024677000,33.95707451000,Nursery,,Nursery Database,Verified,null,,,,Pico Rivera,CA,90660
+600,"Sperling Enterprises, Inc. Dba Sperling Nursery",24460 Calabasas Road,-118.66017488000,34.15031343000,Nursery,,Nursery Database,Verified,null,,,,Calabasas,CA,91302
+601,Tropical Gardens,11428 South Shoemaker Avenue,-118.05519809000,33.92774302000,Nursery,,Nursery Database,Verified,null,,,,Whittier,CA,90605
+602,"Ultra Greens, Incorporated",13102 Maclay,-118.41892068000,34.29963115000,Nursery,,Nursery Database,Verified,null,,,,Sylmar,CA,91342
+603,U.V.A. Nursery,19033 Anelo Avenue,-118.28280558000,33.85721524000,Nursery,,Nursery Database,Verified,null,,,,Carson,CA,90248
+604,United Plant Growers,5150 Knoxville Avenue,-118.10419337000,33.85143103000,Nursery,,Nursery Database,Verified,null,,,,Lakewood,CA,90713
+605,United Plant Growers,3655 Caspian Avenue,-118.21277068000,33.82293366000,Nursery,,Nursery Database,Verified,null,,,,Long Beach,CA,90810
+606,Valley Sod Farms,16405 Chase Street,-118.49130962000,34.22482747000,Nursery,,Nursery Database,Verified,null,,,,North Hills,CA,91343
+607,"Valley Crest Tree Company, Incorporated",9500 Foothill Boulevard,-118.33608795000,34.26788646000,Nursery,,Nursery Database,Verified,null,,,,Sunland,CA,91040
+608,Valley Sod Farms,16500 Roscoe,-118.49498143000,34.22126304000,Nursery,,Nursery Database,Verified,null,,,,North Hills,CA,91343
+609,Vargas Nursery,17000 Passage Avenue,-118.14845590000,33.87972191000,Nursery,,Nursery Database,Verified,null,,,,Bellflower,CA,90706
+610,Vasquez Nursery,1270 Highland Ave,-117.96660038000,34.13875196000,Nursery,,Nursery Database,Verified,null,,,,Duarte,CA,91009
+611,Violet Perfection,1420 Oxford Avenue,-117.72371072000,34.11021370000,Nursery,,Nursery Database,Verified,null,,,,Claremont,CA,91711
+612,West Covina Wholesale Nursery,2061 Wright Avenue Suite A2,-117.77302866000,34.09507629000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+613,West Covina Wholesale Nursery,West of Fairplex Dr. on Puddingstone Dr.,-117.77301209000,34.11859796000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+614,West Covina Wholesale Nursery,2820 Amherst,-117.75238767000,34.11613680000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+615,West Covina Wholesale Nursery,5815 Burton,-118.09338192000,34.08810813000,Nursery,,Nursery Database,Verified,null,,,,San Gabriel,CA,91776
+616,Tierra Eagle Canyon Nursery,41007 12th Street West,-118.15215671000,34.62770329000,Nursery,,Nursery Database,Verified,null,,,,Palmdale,CA,93551
+617,Tops Nursery,18809 Calvert Street,-118.54271956000,34.18183842000,Nursery,,Nursery Database,Verified,null,,,,Reseda,CA,91335
+618,Torrance Wholesale Nursery,18901 Ermanita Avenue,-118.33252822000,33.85905015000,Nursery,,Nursery Database,Verified,null,,,,Torrance,CA,90504
+619,Two Dog Organic Nursery,914 South Cloverdale Avenue,-118.34765923000,34.05846925000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90036
+620,Wilson Elementary,8317 Sheffield Rd,-118.08852930000,34.11713645000,School Garden,Elementary,LA County,Verified,null,Jeannine McGuigan,,,San Gabriel,CA,91775
+621,Aldama Elementary,632 North Avenue 50,-118.20577484000,34.10988719000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90042
+622,All Peoples Christian Center High,822 E. 20th Street,-118.25662160000,34.02607478000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90011
+623,Longfellow Elementary,6005 S. Magnolia Ave,-118.05034154000,33.98820214000,School Garden,Elementary,LA County,Verified,null,Adriana Vigil 562-298-2706,,,Whittier,CA,90807
+624,Highland Elementary,430 Venice Way,-118.36281314000,33.97273890000,School Garden,Elementary,LA County,Verified,null,Dr. Beasley,,,Inglewood,CA,90302
+625,Annalee Ave Elementary,19410 South Annalee Avenue,-118.25290873000,33.85480307000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Carson,CA,90746
+626,Evergreen High School,13101 Dronfield Street,-118.43880884000,34.30900869000,School Garden,High School,LA County,Verified,null,Robinson Acosta,,,Sylmar,CA,91342
+627,Annandale Elementary,6125 Poppy Peak Drive,-118.18646660000,34.12843777000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90042
+628,Vanguard Learning Center,13305 San Pedro Street,-118.26968739000,33.91149780000,School Garden,Middle School,LA County,Verified,null,Principal,,,Willowbrook,CA,90061
+629,Marshall Middle School,5860 East Wardlow Road,-118.11751843000,33.81872157000,School Garden,Middle School,LA County,Verified,null,John Nhan 562-429-7013 x2231,,,Long Beach,CA,90808
+630,Aveson Charter & Elementary,1919 E. Pinecrest,-118.11185526000,34.19161856000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Altadena,CA,91001
+631,El Portal Elementary,200 North Nada Street,-117.96609230000,33.93379921000,School Garden,Elementary,LA County,Rejected,null,Kim Likert 562-902-4211,,,La Habra,CA,90631
+632,Balboa Elementary,17020 Labrador St,-118.50319144000,34.24910009000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Northridge,CA,91367
+633,Mountainview Elementary,22201 West Cypress Place,-118.52261613000,34.47119558000,School Garden,Elementary,LA County,Verified,null,,,,Saugus,CA,91390
+634,Willenberg Ctc,1300 W. 7th Street,-118.30389166000,33.73793934000,Nursery,,Nursery Database,Verified,null,,,,San Pedro,CA,90732
+635,Willenberg Ctc,308 Weymouth Avenue,-118.30996285000,33.74193931000,Nursery,,Nursery Database,Verified,null,,,,San Pedro,CA,90732
+636,"Zuma Canyon Orchids, Incorporated",5949 Bonsall Drive,-118.81286271000,34.02613888000,Nursery,,Nursery Database,Verified,null,,,,Malibu,CA,90265
+637,Aeolian Elementary,11600 Aeolian St,-118.06787956000,33.96621365000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Whittier,CA,90606
+638,Billy Mitchell Elementary,14429 Condon Avenue,-118.35952925000,33.90059921000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Lawndale,CA,90260
+639,Optimal Christian Academy,1300 East Palmer Street,-118.20911965000,33.89830344000,School Garden,Middle School,LA County,Verified,null,Mark Mosby,,,Compton,CA,90221
+640,Macy Intermediate,2101 South Lupine Avenue,-118.12453240000,34.04041140000,School Garden,Middle School,LA County,Verified,null,Michael Lopez (323)-724-9513,,,Monterey Park,CA,91755
+641,Blair Middle & High,1201 S. Marengo Ave.,-118.14580944000,34.12550389000,School Garden,"Middle School, High School",2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91106
+642,Laguna Nueva,6350 Garifield,-118.14626672000,33.97470795000,School Garden,Elementary,LA County,Verified,null,,,,Commence,CA,90040
+643,Park Elementary,301 North Marengo Ave,-118.14208167000,34.09533113000,School Garden,Elementary,Site Survey,Verified,null,,,,Alhambra,CA,91801
+644,Brentwood Science Magnet Elementary,740 Gretna Greenway,-118.48126053000,34.06808519000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90049
+645,Captain Raymond Collins School (Captain Ray'S Corral),6125 Coke Avenue,-118.14717944000,33.86626648000,School Garden,Elementary,Site Survey,Verified,null,,,,Long Beach,CA,90805
+646,Whittier Christian Newlin,6548 South Newling,-118.04963934000,34.01079265000,School Garden,Elementary,LA County,Verified,null,Christina Mondolo,,,Whittier,CA,90601
+647,Puc Excel Charter Academy,1855 North Main Street,-118.22025427000,34.06641661000,School Garden,K-8,LA County,Verified,null,Elizabeth,,,Los Angeles,CA,90031
+648,Thomas Starr King Middle School,4201 Fountain Avenue,-118.28081897000,34.09582768000,School Garden,Middle,Site Survey,Verified,null,,,,Los Angeles,CA,90029
+649,Burbank Community Day,241 East Santa Anita Avenue,-118.30407926000,34.17868219000,School Garden,"Middle School, High School",2015 Master Gardeners List,Verified,null,,,,Burbank,CA,91502
+650,Balboa Gifted/ High Ability Magnet School,17020 Labrador St.,-118.50319144000,34.24910009000,School Garden,Elementary,Site Survey,Verified,null,,,,Northridge,CA,91325
+651,Calvert Charter,19850 Delano St,-118.56513951000,34.18237340000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Woodland Hills,CA,91367
+652,Inglewood High Continuation,10500 South Yukon Avenue,-118.36059008000,33.95773506000,School Garden,High School,LA County,Verified,null,Chris Wade,,,Inglewood,CA,90301
+653,Grandview Middle School,795 North Grandview Lane,-117.92215599000,34.02983669000,School Garden,Middle School,LA County,Verified,null,Pricilla,,,Valinda,CA,91744
+654,Bethune Middle,155 West 69th St.,-118.27605899000,33.97738750000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90003
+655,Richland Avenue Elementary School,11562 Richland Avenue,-118.44014561000,34.02869487000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90064
+656,6Th Avenue Elementary School,3109 6th Ave.,-118.32363203000,34.02662024000,School Garden,Elementary,EnrichLA,Verified,null,Adrian┬áFine,,,Los Angeles,CA,90018
+657,Community Magnet Charter School,11301 Bellagio Road,-118.46238028000,34.08176582000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90049
+658,Castle Heights Elementary,9755 Cattaraugus Avenue,-118.39837685000,34.03735818000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90034
+659,Carthay School Of Environmental Studies Magnet,6351 W. Olmpic Blvd.,-118.36922719000,34.05883756000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90048
+660,Center Street Elementary,700 Center Street,-118.40484260000,33.92515060000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,El Segundo,CA,90245
+661,Atwater Avenue Elementary School,3271 Silver Lake Blvd.,-118.25369848000,34.11468347000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90039
+662,Weizmann Day School,1434 N. Altadena Drive,-118.12034715000,34.19057650000,School Garden,Elementary,Site Survey,Verified,null,,,,Altadena,CA,91001
+663,Sch Central High,11965 Allin St.,-118.41293770000,33.99168377000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Mar Vista Gardens,CA,90230
+664,Bryson Elementary School,4470 Missouri Ave.,-118.19266251000,33.94498370000,School Garden,Elementary,EnrichLA,Verified,null,April┬áDiedrich,,,South Gate,CA,90280
+665,John Adams Middle School,2425 16th street,-118.46994913000,34.01278202000,School Garden,Middle,Site Survey,Verified,null,,,,Santa Monica,CA,90405
+666,Charnock Road Elementary,11133 Charnock Road,-118.41955319000,34.01729492000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90034
+667,La Petite Academy,1709 E Palmdale Blvd,-118.09805955000,34.57968764000,School Garden,Preschool/Headstart,Site Survey,Verified,null,,,,Palmdale,CA,93550
+668,Calvert Street Elementary School,19850 Delano St,-118.56513951000,34.18237340000,School Garden,Elementary,EnrichLA,Verified,null,,,,Woodland Hills,CA,91367
+669,Gregg Anderson Academy,5151 West Avenue N-8,-118.22160468000,34.62361534000,School Garden,Elementary,Site Survey,Verified,null,,,,Palmdale,CA,93551
+670,Captain Ray Collins Elementary,6125 Coke Avenue,-118.14717944000,33.86626648000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90805
+671,Monroe Elementary,402 West Colorado Blvd.,-118.00764824000,34.14578491000,School Garden,Elementary,LA County,Verified,null,,,,Monrovia,CA,91016
+672,Larchmont Charter School-Hollygrove,815 N El Centro,-118.32446780000,34.08568313000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90038
+673,Carthay Center Elementary,6351 W Olympic Blvd,-118.36922719000,34.05883756000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90048
+674,Delevan Drive Elementary School,4168 W. Ave 42,-118.22735772000,34.12714754000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90065
+675,Westside Global Awareness Magnet,104 Anchorage st,-118.46499298000,33.97928394000,School Garden,Elementary,Site Survey,Verified,null,,,,marina del rey,CA,90292
+676,Dominguez High School,15301 S. San Jose Ave.,-118.18172325000,33.89416217000,School Garden,High School,EnrichLA,Verified,null,,,,Compton,CA,90221
+677,Marguerita School,Marguerita Ave.,-118.13835573000,34.09779885000,School Garden,Elementary,Site Survey,Verified,null,,,,Alhambra,CA,91801
+678,Eagle Rock Elementary,2057 Fair Park Ave,-118.21277473000,34.13568731000,School Garden,Elementary,EnrichLA,Verified,null,Stephanie┬áLeach,,,Los Angeles,CA,90041
+679,Marquez Charter School,16821Marquez Avenue,-118.53548506000,34.04620089000,School Garden,Elementary,Site Survey,Verified,null,,,,Pacific Palisades,CA,90272
+680,Eagle Rock Junior/Senior High School,1750 Yosemite Drive,-118.20548440000,34.13328401000,School Garden,"Middle School, High School",EnrichLA,Verified,null,Mylene┬áKeipp,,,Los Angeles,CA,90041
+681,John Muir Elementary School,2526 Sixth Street,-118.48045827000,34.00575671000,School Garden,Elementary,Site Survey,Verified,null,,,,Santa Monica,CA,90405
+682,Wilton Place Elementary,745 S WILTON PL,-118.31430204000,34.05834105000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90005
+683,El Sereno Middle School,2839 N. Eastern Ave.,-118.17806159000,34.07897131000,School Garden,Middle School,EnrichLA,Verified,null,,,,Los Angeles,CA,90032
+684,Young Oak Kim Academy,615 S SHATTO PL,-118.28992636000,34.06313860000,School Garden,Middle,Site Survey,Verified,null,,,,Los Angeles,CA,90005
+685,Foster Elementary School,1620 N. Paynes Ave.,-118.20299735000,33.90601329000,School Garden,Elementary,EnrichLA,Verified,null,,,,Compton,CA,90221
+686,Magnolia Avenue Elementary,1626 S ORCHARD AVE,-118.28850696000,34.04395799000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90006
+687,Gardner Street Elementary School,7450 Hawthorn Ave.,-118.35202994000,34.09979278000,School Garden,Elementary,EnrichLA,Verified,null,Michael┬áRosner,,,Los Angeles,CA,90046
+688,Berendo Middle,1157 S BERENDO ST,-118.29372245000,34.04999009000,School Garden,Middle,Site Survey,Verified,null,,,,Los Angeles,CA,90006
+689,Citizen Of The World Charter,1316 N. Bronson Ave.,-118.31794662000,34.09481018000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90028
+690,Olympic High School,721 Ocean Park Blvd,-118.47688462000,34.00666618000,School Garden,High,Site Survey,Verified,null,,,,Santa Monica,CA,90405
+691,Crystal Stairs- Sullivan School,725 w. Raymond Street,-118.23624947000,33.88715757000,School Garden,Headstart,EnrichLA,Verified,null,,,,Compton,CA,90220
+692,Rockdale Vapa Magnet,1303 Yosemite Drive,-118.19446557000,34.13308703000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90041
+693,Rio Vista Elementary School,4243 Satsuma Avenue,-118.36738217000,34.14707095000,School Garden,Elementary,Site Survey,Verified,null,,,,North Hollywood,CA,91602
+694,Juan Cabrillo Elementary School,5309 W. 135th St.,-118.37295974000,33.90949780000,School Garden,Elementary,EnrichLA,Verified,null,,,,Hawthorne,CA,90250
+695,Kester Avenue Elementary School,5353 Kester Ave.,-118.45749205000,34.16758061000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,91411
+696,Eagle Rock High School,1750 Yosemite Drive,-118.20548440000,34.13328401000,School Garden,High,Site Survey,Verified,null,,,,Los Angeles,CA,90041
+697,Yorkdale Elementary School,6125 Poppy Peak Drive,-118.18646660000,34.12843777000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90042
+698,Lenicia B. Weemes Elementary School,1260 West 36th Pl.,-118.29640781000,34.02188357000,School Garden,Elementary,EnrichLA,Verified,null,Lynn┬áBrown,,,Los Angeles,CA,90007
+699,Loreto Elementary School,2211 W Ave 30,-118.23701522000,34.10451896000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90065
+700,Lexington Avenue Primary Center School,4564 Lexington Ave.,-118.28836921000,34.09343370000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90029
+701,Mt. Washington Elementary School,3981 San Rafael Avenue,-118.21563258000,34.10438959000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90065
+702,Los Feliz Charter School For The Arts School,2709 Media Center Dr.,-118.24327406000,34.10893745000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90065
+703,Lexington Avenue Primary School Center,4564 W Lexington Avenue,-118.28835156000,34.09343733000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90029
+704,Los Feliz Elementary School,1740 N New Hampshire Ave.,-118.29330636000,34.10259119000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90027
+705,Atwater Elementary School,3271 Silver Lake Blvd.,-118.25369848000,34.11468347000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90039
+706,Luther Burbank Middle School,6460 N FIigueroa St.,-118.18365653000,34.11986304000,School Garden,Middle School,EnrichLA,Verified,null,,,,Los Angeles,CA,90042
+707,Rosewood Elementary,503 N CROFT AVE,-118.37426224000,34.08109084000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90048
+708,Hollenbeck Middle School,2510 6th St,-118.21250365000,34.03690861000,School Garden,High School,EnrichLA,Verified,null,Randy┬áRomero,,,Los Angeles,CA,90023
+709,Canfield Avenue Elementary,9233 AIRDROME ST,-118.39050376000,34.04978729000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90035
+710,John Marshall High School,3939 Tracy St.,-118.27859866000,34.10835819000,School Garden,Elementary,EnrichLA,Verified,null,Patricia┬áHeideman,,,Los Angeles,CA,90027
+711,El Sereno Elementary School,3838 Rosemead Avenue,-118.17754221000,34.08989635000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90032
+712,Selma Avenue Elementary School,6611 Selma Ave,-118.33421263000,34.09976830000,School Garden,Elementary,EnrichLA,Verified,null,Glendy┬áMarin,,,Los Angeles,CA,90028
+713,"A-G Sod Farms, Incorporated",40th street East and N,-117.35627902000,33.93009686000,Nursery,,Nursery Database,Rejected,null,,,,Palmdale,CA,92506
+714,Alta Loma Elementary School,1745 Vineyard Avenue,-118.33886707000,34.04240686000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90001
+715,South Gate Middle School,4100 Firestone Blvd,-118.19797262000,33.95337312000,School Garden,Middle School,EnrichLA,Verified,null,Janet┬áMack,,,South Gate,CA,90280
+716,Kerry Olinger,3485 Greenwood Ave,-118.44728325000,34.00605231000,School Garden,Middle,Site Survey,Verified,null,,,,Los Angeles,CA,90066
+717,Tenth Street Elementary,1000 Grattan Street,-118.27338412000,34.04853319000,School Garden,Elementary,EnrichLA,Verified,null,William┬áOtto,,,Los Angeles,CA,90015
+718,Rosewood Elementary School,North Croft Ave,-118.37424532000,34.07853801000,School Garden,Elementary,EnrichLA,Verified,null,,,,West Hollywood,CA,90048
+719,Wr Powell Elementary School,1035 E Mauna Loa Avenue,-117.88659779000,34.12512039000,School Garden,Elementary,Site Survey,Verified,null,,,,AZUSA,CA,91702
+720,Toland Way Elementary,4545 TOLAND WAY,-118.21675148000,34.12085839000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90041
+721,Aldama Elementary School,632 N AVE 50,-118.20577484000,34.10988719000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90042
+722,Glassell Park Elementary School,2211 W AVE 30,-118.23701522000,34.10451896000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90065
+723,Westminster Elementary School,1010 Abbot Kinney Blvd,-118.47220441000,33.99211385000,School Garden,Elementary,Site Survey,Verified,null,,,,Venice,CA,90291
+724,Baldwin Hills G/Ha Magnet,5421 Rodeo Road,-118.36527957000,34.02159802000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90016
+725,Carthay Center Elementary School,6351 W. Olympic Blvd.,-118.36922719000,34.05883756000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90048
+726,Melrose Elementary School,731 N. Detroit St.,-118.34521281000,34.08437994000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90046
+727,Ramona Elementary School,9351 Laurel St.,-118.13525740000,33.88298232000,School Garden,Elementary,EnrichLA,Verified,null,,,,Bellflower,CA,90706
+728,La Leadership Academy Charter School,234 E. Avenue 33,-118.21091223000,34.08329717000,School Garden,Charter 6th-12th grade,Site Survey,Verified,null,,,,Los Angeles,CA,90031
+729,East Los Angeles College,1301 Avenida Cesar Chavez,-118.14788842000,34.03887906000,School Garden,College,2015 Master Gardeners List,Verified,null,,,,Monterey Park,CA,91754
+730,Pencil Tree Man,1595 Las Lunas St.,-118.11755987000,34.15658859000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91106
+731,Eliot Middle,2184 N Lake Ave,-118.13158739000,34.18341530000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,91001
+732,Emblem Academy,22635┬áW. Espuella Drive,-118.53184973000,34.42913673000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Saugus,CA,91350
+733,Enadia Way Elementary,22944 Enadia Way,-118.62760907000,34.20002287000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,West Hills,CA,91307
+734,Foshay Learning Center,3751 S. Harvard Blvd,-118.30620284000,34.01918073000,School Garden,K-12,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90018
+735,Frank Del Olmo Elementary School,100 North New Hampshire Ave,-118.29289609000,34.07292054000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90004
+736,Sch Glassell Park Elementary,2211 W. Ave 30,-118.23701522000,34.10451896000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90065
+737,Glenfeliz Elementary,3955 Glenfeliz Blvd,-118.26784440000,34.12238872000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90039
+738,Grand View Elementary,3951 Grand View Boulevard,-118.42889929000,34.00182227000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90066
+739,Grant High School,13000 Oxnard Street,-118.41625011000,34.17936286000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Valley Glen,CA,91401
+740,Greenspace At Macy Intermediate,2101 Lupine Avenue,-118.12453240000,34.04041140000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Monterey Park,CA,91755
+741,Hamilton High,2955 South Robertson Blvd,-118.38954104000,34.03386745000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90034
+742,Hamilton Middle,1060 E 70th┬áSt.,-118.17949015000,33.88180798000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90805
+743,Sierra Vista Middle School,777 E Puente Ave,-117.87298502000,34.08250088000,School Garden,Middle,Site Survey,Verified,null,,,,Covina,CA,91723
+744,Crenshaw High,5010 - 11th Avenue,-118.32935590000,33.99657080000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90043
+745,Culver City High,4401 Elenda Street,-118.40210091000,34.00767857000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90230
+746,Delevan Drive Elementary,4168 W Avenue 42,-118.22735772000,34.12714754000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90065
+747,Sch L.A. Valley College Child Development Center,5800 Fulton Ave,-118.42245650000,34.17835002000,School Garden,Headstart,2015 Master Gardeners List,Verified,null,,,,Van Nuys,CA,91401
+748,La Petite Preschool,1709 E Palmdale Blvd,-118.09805955000,34.57968764000,School Garden,Preschool,2015 Master Gardeners List,Verified,null,,,,Palmdale,CA,93550
+749,Larchmont Charter (Hollygrove),815 N El Centro Ave,-118.32447237000,34.08574942000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90038
+750,Theodore Roosevelt High School,456 S Mathews St,-118.21122856000,34.03920404000,School Garden,High School,EnrichLA,Verified,null,,,,Los Angeles,CA,90033
+751,Lincoln Drew Elementary,1667 East 118th St,-118.24429603000,33.92597099000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90059
+752,Toluca Lake Elementary School,4840 Cahuenga Blvd,-118.36151611000,34.15856997000,School Garden,Elementary,EnrichLA,Verified,null,Carol┬áReo-Bove,,,North Hollywood,CA,91601
+753,Lincoln Elementary,1175 E. 11th Street,-118.17727482000,33.78082857000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90813
+754,Utah Street Elementary School,255 Gabriel Garcia Marquez St.,-118.22398237000,34.04903320000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90033
+755,Longden Elementary,9501 Wendon Ave,-118.06506663000,34.11196096000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Temple City,CA,91780
+756,Van Nuys Middle School,5435 Vesper Ave.,-118.45095231000,34.16892096000,School Garden,Middle School,EnrichLA,Verified,null,,,,Sherman Oaks,CA,91411
+757,Los Angeles Mission College,13356 Eldridge Avenue,-118.41958000000,34.31392335000,School Garden,College,2015 Master Gardeners List,Verified,null,,,,Sylmar,CA,91342
+758,Los Feliz Charter For The Arts,2709 Media Center Dr┬á,-118.24327406000,34.10893745000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90065
+759,West Vernon Elementary School,4312 S. Grand Ave.,-118.28048680000,34.00469214000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90037
+760,Whaley Middle School,14401 S Gibson Ave,-118.18951676000,33.90266020000,School Garden,Middle School,EnrichLA,Verified,null,,,,Compton,CA,90221
+761,John Muir Elementary,2526 Sixth Street,-118.48045827000,34.00575671000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Santa Monica,CA,90405
+762,John Muir High,1905 N. Lincoln Avenue,-118.15968879000,34.17861040000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91103
+763,John Muir Middle,5929 S. Vermont Avenue,-118.29151262000,33.98652052000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90044
+764,Jordan Plus High,171 W. Bort St,-118.20450625000,33.87046862000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Long Beach,CA,90805
+765,Woodlawn Elementary School,6314 Woodlawn Ave.,-118.17781727000,33.97786536000,School Garden,Elementary,EnrichLA,Verified,null,,,,Bell,CA,90201
+766,Madison Elementary,515 E Ashtabula St,-118.13988294000,34.15874026000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91104
+767,Atwater Park Center For Children,3370 Perlita Ave,-118.25613908000,34.11703782000,School Garden,Headstart,EnrichLA,Verified,null,,,,Los Angeles,CA,90039
+768,Manual Arts High,4131 South Vermont Ave,-118.29158255000,34.00877030000,School Garden,High School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90037
+769,Johnston Cds/ Science Center,2210 Taper Ave.,-118.29949856000,33.76536915000,School Garden,CDS,NEOP,Verified,null,,,,San Pedro,CA,90731
+770,135Th St,801 W. 135th St.,-118.28941002000,33.90918824000,School Garden,Elementary,NEOP,Verified,null,,,,Gardena,CA,90247
+771,Marguerita Elementary,1603 S. Marguerita Avenue,-118.13821017000,34.07535318000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Alhambra,CA,91803
+772,186Th St,1581 W. 186th St.,-118.30587999000,33.86201846000,School Garden,Elementary,NEOP,Verified,null,,,,Gardena,CA,90248
+773,Mark Twain Elementary,3728 West 154th Street,-118.33855248000,33.89097452000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Lawndale,CA,90260
+774,24Th St,2055 W. 24th St.,-118.31012015000,34.03474858000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90018
+775,Marquez Charter Elementary,┬á16821 Marquez Avenue,-118.54764039000,34.04548186000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Pacific Palisades,CA,90272
+776,2Nd St,1942 E. Second St.,-118.21714077000,34.04526507000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90033
+777,95Th St,1109 W. 96th St.,-118.29243921000,33.94872852000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90044
+778,Mckinley Elementary,2401 Santa Monica Blvd.,-118.47638230000,34.03168241000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Santa Monica,CA,90404
+779,Wilshire Park Elementary School,4063 Ingraham Street,-118.31652935000,34.06080845000,School Garden,Elementary,EnrichLA,Verified,null,LeighAnn┬áCreary,,,Los Angeles,CA,90005
+780,Lupin Hill Elementary,26210 Adamor Rd,-118.69794983000,34.16357699000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Calabasas,CA,91302
+781,Wilton Place Elementary School,745 South Wilton Place,-118.31430204000,34.05834105000,School Garden,Elementary,EnrichLA,Verified,null,,,,Los Angeles,CA,90005
+782,Luther Burbank Middle,6060 N Figueroa St,-118.18830164000,34.11178990000,School Garden,Middle School,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90042
+783,Barton Hill,423 N. Pacific Ave.,-118.28791233000,33.74646061000,School Garden,Elementary,NEOP,Verified,null,,,,San Pedro,CA,90731
+784,Bushnell Way,5507 Bushnell Way,-118.18882445000,34.10235926000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90042
+785,Monlux Elementary,6051 Bellaire Ave.,-118.40947261000,34.18168108000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,North Hollywood,CA,91606
+786,Newhall Elem,24607 N. Walnut St.,-118.53169192000,34.38185105000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Newhall,CA,91321
+787,Farmdale,2660 Ruth Swiggett Dr.,-118.17968602000,34.07706071000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90032
+788,Glenfeliz,3955 Glenfeliz Blvd.,-118.26784440000,34.12238872000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90039
+789,Oak Park Unified School District,5801 Conifer St,-118.76479847000,34.17092795000,School Garden,,2015 Master Gardeners List,Rejected,null,,,,Oak Park,CA,91377
+790,Hawaiian Ave,540 Hawaiian Ave.,-118.27645643000,33.77552286000,School Garden,Elementary,NEOP,Verified,null,,,,Wilmington,CA,90744
+791,Ocean Charter,12606 Culver Blvd,-118.42388543000,33.98726179000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90066
+792,Kester,5353 Kester Ave.,-118.45749205000,34.16758061000,School Garden,Elementary,NEOP,Verified,null,,,,Van Nuys,CA,91411
+793,Lomita Mst,2211 W.  27th St.,-118.31810484000,33.79436023000,School Garden,Elementary,NEOP,Verified,null,,,,Lomita,CA,90717
+794,Bandini,425 N. Bandini St.,-118.29897195000,33.74643148000,School Garden,Elementary,NEOP,Verified,null,,,,San Pedro,CA,90731
+795,Mack,3020 S. Catalina St.,-118.29368632000,34.02652001000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90007
+796,Michelle Obama,8150 Cedros Ave.,-118.45354136000,34.21881939000,School Garden,Elementary,NEOP,Verified,null,,,,Panorama City,CA,91402
+797,Micheltorena,1511 Micheltorena St.,-118.27493542000,34.08906766000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90026
+798,O'Melveny,728 Woodworth St.,-118.44453030000,34.27580850000,School Garden,Elementary,NEOP,Verified,null,,,,San Fernando,CA,91340
+799,Mckinley School Of The Arts,325 South Oak Knoll Ave,-118.13521036000,34.14018866000,School Garden,K-8,2015 Master Gardeners List,Verified,null,,,,Pasadena,CA,91101
+800,Melrose Elementary,731 N Detroit St.,-118.34521281000,34.08437994000,School Garden,Elementary,2015 Master Gardeners List,Verified,null,,,,Los Angeles,CA,90046
+801,Annandale,6125 Poppy Peak Dr.,-118.18646660000,34.12843777000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90042
+802,Monroe,9229 Haskell Ave.,-118.47636299000,34.23605144000,School Garden,High School,NEOP,Verified,null,,,,North Hills,CA,91343
+803,San Pedro,1001 W. 15th St.,-118.29906170000,33.73061420000,School Garden,High School,NEOP,Verified,null,,,,San Pedro,CA,90731
+804,Sylmar,13050 Borden Ave.,-118.44282835000,34.30725459000,School Garden,High School,NEOP,Verified,null,,,,Sylmar,CA,91342
+805,Caroldale,22424 Caroldale Ave.,-118.28389012000,33.82175789000,School Garden,K-8,NEOP,Verified,null,,,,Carson,CA,90745
+806,Elizabeth,4811 Elizabeth St.,-118.18371597000,33.96296768000,School Garden,K-12,NEOP,Verified,null,,,,Cudahy,CA,90201
+807,Vista,15040 Roscoe Blvd.,-118.45948799000,34.22144653000,School Garden,Middle School,NEOP,Verified,null,,,,Panorama City,CA,91402
+808,Marlton,4000 Santo Tomas Dr.,-118.34407409000,34.00945563000,School Garden,Special Education,NEOP,Verified,null,,,,Los Angeles,CA,90008
+809,Willenberg,308 Weymouth Ave.,-118.30996285000,33.74193931000,School Garden,Special Education,NEOP,Verified,null,,,,San Pedro,CA,90732
+810,Fremont Community Garden And Wellness Center,7821 South Avalon Boulevard,-118.26519728000,33.96816788000,School Garden,High,Site Survey,Verified,null,,,,Los Angeles,CA,90003
+811,Las Flores Educational Center,10039 Palm Street,-118.12014019000,33.87666654000,School Garden,K-8grade homeschool program,Site Survey,Verified,null,,,,Bellflower,CA,90706
+812,White Oak Elementary,Village School Road,-118.81195647000,34.14379229000,School Garden,Elementary,Site Survey,Verified,null,,,,Westlake Village,CA,91361
+813,Round Meadow Elementary,5151 Round Meadow Rd.,-118.66590724000,34.15351511000,School Garden,Elementary,Site Survey,Verified,null,,,,Hidden Hills,CA,91302
+814,Rockdale Visual & Performing Arts Magnet,1303 YOSEMITE DR,-118.19446557000,34.13308703000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90041
+815,Larchmont Charter,1265 N. Fairfax Ave.,-118.36157205000,34.09355025000,School Garden,K - 10,Site Survey,Verified,null,,,,West Hollywood,CA,90046
+816,Richland Ave,11562 Richland Ave.,-118.44014561000,34.02869487000,School Garden,Elementary,NEOP,Verified,null,,,,Los Angeles,CA,90064
+817,San Miguel,9801 San Miguel Ave.,-118.20064166000,33.94568534000,School Garden,Elementary,NEOP,Verified,null,,,,South Gate,CA,90280
+818,Jordan,2265 E. 103rd St.,-118.23097899000,33.94313752000,School Garden,High School,NEOP,Verified,null,,,,Los Angeles,CA,90002
+819,Manual Arts,4131 S. Vermont Ave.,-118.29158255000,34.00877030000,School Garden,High School,NEOP,Verified,null,,,,Los Angeles,CA,90037
+820,Juan Cabrillo Elementary School,5309 West 135th Street,-118.37295974000,33.90949780000,School Garden,Elementary,Site Survey,Verified,null,,,,Hawthorne,CA,90250
+821,Juan De Anza,12110 Hindry Ave,-118.37218432000,33.92283127000,School Garden,Elementary,Site Survey,Verified,null,,,,Hawthorne,CA,90250
+822,Arroyo Vista Elementary School,335 El Centro Street,-118.16719908000,34.11401310000,School Garden,Elementary,Site Survey,Verified,null,,,,South Pasadena,CA,91030
+823,South Pasadena High School,1401 Fremont Ave,-118.15320121000,34.10986290000,School Garden,High,Site Survey,Verified,null,,,,South Pasadena,CA,91030
+824,Washington Elementary,1100 Lilienthal Lane,-118.36556746000,33.86390244000,School Garden,Elementary,Site Survey,Verified,null,,,,Redondo Beach,CA,90278
+825,Birney Elementary School,1600 Green Lane,-118.37693355000,33.86910984000,School Garden,Elementary,Site Survey,Verified,null,,,,Redondo Beach,CA,90278
+826,Nelson Elementary,330 North California Avenue,-117.96678733000,34.03388386000,School Garden,Elementary,Site Survey,Verified,null,,,,La Puente,CA,91744
+827,Beryl Heights Elementary,920 Beryl Street,-118.38454036000,33.85220592000,School Garden,Elementary,Site Survey,Verified,null,,,,Redondo Beach,CA,90277
+828,New Village Girls Academy,147 N. Occidental Blvd.,-118.27918608000,34.07114662000,School Garden,High,Site Survey,Verified,null,,,,Los Angeles,CA,90026
+829,Traweek Middle School,1941 E. Rowland Ave.,-117.90478888000,34.07919769000,School Garden,Middle,Site Survey,Verified,null,,,,West Covina,CA,91784
+830,Madison Elementary School,2200 MacKay Lane,-118.36852671000,33.87521099000,School Garden,Elementary,Site Survey,Verified,null,,,,Redondo Beach,CA,90278
+831,Arlene Gallego,801 N Del Valle Ave,-117.94373992000,34.03305513000,School Garden,Elementary,Site Survey,Verified,null,,,,La Puente,CA,91744
+832,Cedarlane Academy,16333 Cedarlane Dr.,-117.95089011000,33.99869877000,School Garden,Middle,Site Survey,Verified,null,,,,Hacienda Hts.,CA,91745
+833,Hancock Park Elementary School,408 S FAIRFAX AVE,-118.36137624000,34.06952072000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90036
+834,Olita Elementary,950 S. Briercliff Drive,-117.97390322000,33.92101358000,School Garden,Elementary,Site Survey,Rejected,null,,,,La Habra,CA,90631
+835,6Th Avenue Elementary,3109 SIXTH AVE,-118.32363203000,34.02662024000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90018
+836,Woodcrest Elementary,1151 W 109TH ST,-118.29495906000,33.93731807000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90044
+837,Las Palmas,461 N. Lark ellen ave,-117.91663877000,34.08977679000,School Garden,Middle,Site Survey,Verified,null,,,,Covina,CA,91722
+838,Jeff Winckler,600 Harkness Ln.,-118.38112365000,33.86013365000,School Garden,Elementary,Site Survey,Verified,null,,,,Redondo Beach,CA,90278
+839,Littlerock High School,10833 East Avenue R,-117.93575330000,34.57264416000,School Garden,High,Site Survey,Verified,null,,,,Littlerock,CA,93543
+840,Patrick Henry K-8 School,3720 Canehill Avenue,-118.11044046000,33.82558833000,School Garden,K-8,AHA,Verified,null,,,,Long Beach,CA,90808
+841,Queen Anne Place,1212 QUEEN ANNE PL,-118.33141887000,34.05141902000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90019
+842,Prisk Elementary School,2375 Fanwood Avenue,-118.11559123000,33.80063404000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90815
+843,Saturn Street Elementary,5360 SATURN ST,-118.35620716000,34.04678375000,School Garden,Elementary,Site Survey,Verified,null,,,,LOS ANGELES,CA,90019
+844,Signal Hill Elementary School,2285 Walnut Avenue,-118.17204122000,33.79856887000,School Garden,Elementary,AHA,Verified,null,,,,Signal Hill,CA,90755
+845,Pio Pico Middle,1512 S ARLINGTON AVE,-118.31769534000,34.04514551000,School Garden,Middle,Site Survey,Verified,null,,,,LOS ANGELES,CA,90019
+846,Twain Elementary School,5021 E. Centrailia Street,-118.13470426000,33.83962911000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90808
+847,Coliseum Street Elementary,4400 COLISEUM ST,-118.34475942000,34.01822267000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90016
+848,Webster Elementary School,1755 W. 32nd Way,-118.21595557000,33.81618064000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90810
+849,Aroma Orchids,2043 Desire Ave.,-117.89430910000,33.98155890000,Farm,,Certified Producers List,Verified,null,,,,Rowland Heights,CA,91748
+850,Joseph Pomeroy Widney High,2302 S GRAMERCY PL,-118.31328687000,34.03578007000,School Garden,High,Site Survey,Verified,null,,,,LOS ANGELES,CA,90018
+851,Coughlin Elementary,11035 Borden Avenue,-118.40242004000,34.27032939000,School Garden,Elementary,AHA,Verified,null,,,,Pacoima,CA,91331
+852,"Jaye, Robert",6122 Busch Dr.,-118.81784282000,34.02443530000,Farm,,Certified Producers List,Verified,null,,,,Malibu,CA,90265
+853,William Mckinley Elementary,349 West Valencia Avenue,-118.30983274000,34.16662594000,School Garden,Elementary,AHA,Verified,null,,,,Burbank,CA,91506
+854,Silver Lake Farm,2833 Shadowlawn Ave.,-118.26842250000,34.10726726000,Farm,,Certified Producers List,Verified,null,,,,Silverlake,CA,90039
+855,Meadow Green Elementary,12025 Grovedale Dr.,-117.98837909000,33.92203773000,School Garden,Elementary,Site Survey,Verified,null,,,,Whittier,CA,90604
+856,Gibson,9650 East Palmdale Blvd,-117.95729835000,34.57974543000,School Garden,Elementary,Site Survey,Verified,null,,,,Palmdale,CA,93591
+857,Palmdale High School,2137 East Ave R,-118.09092046000,34.57273531000,School Garden,High,Site Survey,Verified,null,,,,Palmdale,CA,93550
+858,Monterey Highlands Elementary School,400 Casuda Canyon Drive,-118.15420860000,34.05903972000,School Garden,Elementary,AHA,Verified,null,,,,Monterey Park,CA,91754
+859,Hooper Avenue Elementary,1225 E 52ND ST,-118.25319964000,33.99597755000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90011
+860,Chile Lily Garden,254 W. Palm St.,-118.15151847000,34.19823380000,Farm,,Certified Producers List,Verified,null,,,,Altadena,CA,91001
+861,Baldwin Park Wic,3601 Puente Avenue,-117.95393000000,34.07784768000,Community Garden,,Community Garden Database,Verified,null,,,,Baldwin Park,CA,91706
+862,Agua Dulce Nursery,33650 Sierra Vallejo Road,-118.35302646000,34.51194177000,Nursery,,Nursery Database,Verified,null,,,,Canyon Country,CA,91390
+863,Quincy Jones Elementary,900 E 33RD ST,-118.26074575000,34.01459665000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90011
+864,Mount Olive,19 W. Palm Dr.,-118.03197920000,34.11183843000,Farm,,Certified Producers List,Verified,null,,,,Arcadia,CA,91007
+865,Manual Arts High School,4131 S. Vermont Avenue,-118.29158255000,34.00877030000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90037
+866,Leo Politi Elementary,2481 W 11TH ST,-118.28689017000,34.05081761000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90006
+867,Maria's Garden,1950 E. 110th St.,-118.23780894000,33.93509309000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90059
+868,Hollenbeck Middle School,2510 E. 6th Street,-118.21199033000,34.03668451000,School Garden,High School,AHA - Randy Ryan,Verified,null,Randy┬áRomero,,,Los Angeles,CA,90023
+869,Arlington Heights Elementary,1717 SEVENTH AVE,-118.32488263000,34.04135009000,School Garden,Elementary,Site Survey,Verified,null,,,,Los Angeles,CA,90019
+870,,12507-12999 Little Tujunga Canyon Rd,-118.35893681000,34.29381829000,Farm,,Certified Producers List,Verified,null,,,,Sylmar,CA,91342
+871,Whisper Farms,1522 Tapeka St.,-118.11945553000,34.17472683000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91104
+872,Bell Gardens Community Garden,8000 Park Lane,-118.15204747000,33.95910062000,Community Garden,,Community Garden Database,Verified,null,Ray Corona 562-806-7650 rcorona@bellgardens.org,,,Bell Gardens,CA,90201
+873,Kilcoyne Lilac Farm,3511 W. Soledand Canyon Rd.,-118.17867700000,34.49290195000,Farm,,Certified Producers List,Verified,null,,,,Acton,CA,93510
+874,,557 Reposado Dr.,-117.95493481000,33.96486515000,Farm,,Certified Producers List,Verified,null,,,,La Habra,CA,90631
+875,Northrup Elementary School,409 S Atlantic Blvd,-118.13461601000,34.08565559000,School Garden,Elementary,AHA,Verified,null,,,,Alhambra,CA,91801
+876,Fremont Elementary School,2001 South Elm Street,-118.15038522000,34.07085070000,School Garden,Elementary,AHA,Verified,null,,,,Alhambra,CA,91803
+877,Jazzy Sprouts,10020 Debra Ave,-118.49034690000,34.25262514000,Farm,,Certified Producers List,Verified,null,,,,North Hills,CA,91343
+878,,329 Elm Ave.,-118.30696709000,34.16484393000,Farm,,Certified Producers List,Verified,null,,,,Burbank,CA,91506
+879,Alvarado Elementary School,1900 East 21st Street,-118.16861478000,33.79527668000,School Garden,Elementary,AHA,Verified,null,,,,Signal Hill,CA,90755
+880,Network For A Healthy California,6651-C Balboa Blvd.,-118.50115018000,34.19150206000,Community Garden,,2015 Master Gardeners List,Verified,null,,,,Van Nuys,CA,91406
+881,Venice Community Housing - Youth Build,720 Rose Avenue,-118.46885704000,34.00079581000,Community Garden,,2015 Master Gardeners List,Verified,null,,,,Venice,CA,90291
+882,Boys And Girls Club Of Long Beach- Westside Center,1835 W Willard St,-118.21727228000,33.79441053000,Community Garden,,AHA - Randy Ryan,Verified,null,,,,Long Beach,CA,90810
+883,1St And Elm Community Garden,417 E. 1st Street,-118.18716009000,33.76816843000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90802
+884,Fifth Street Garden,1001 E. 3rd St.,-118.17998512000,33.77066402000,Community Garden,,Community Garden Database,Verified,null,,,,Long Beach,CA,90803
+885,Challengers Boys & Girls Club,┬á5029 S. Vermont Avenue,-118.29156274000,33.99732023000,School Garden,,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90037
+886,Harvard Farms,3820 S. Harvard Blvd.,-118.30666672000,34.01679025000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90062
+887,Markham Middle School,1650 E. 104th Street,-118.24496873000,33.94143353000,School Garden,Middle School,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90002
+888,Lee Elementary School,1620 Temple Avenue,-118.15890564000,33.78737454000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90804
+889,99Th Street Elementary,9900 Wadsworth Street,-118.25863804000,33.94601906000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90002
+890,"Swevedoski, Farms",6100 Block of Florence Ave,-118.16686375000,33.96958940000,Farm,,Certified Producers List,Verified,null,,,,Bell Gardens,CA,90201
+891,Figueroa St. Elementary,510 W 111th Street,-118.28372928000,33.93472362000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90044
+892,Earthworks Farm Community Garden,1210 Lerma Rd. S,-118.04202819000,34.08130233000,Farm,,Certified Producers List,Verified,null,,,,El Monte,CA,91731
+893,Macy Elementary,2301 W. Russell Street,-117.97418710000,33.94403656000,School Garden,Elementary,Site Survey,Rejected,null,,,,La Habra,CA,90631
+894,Avalon Gardens Public Housing Community Garden,701 E. 88th Pl.,-118.26290959000,33.95649788000,Community Garden,,EnrichLA,Verified,null,,,,Los Angeles,CA,90002
+895,West Adams High School,1500 W. Washington Blvd.,-118.28971889000,34.03998294000,School Garden,High School,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90007
+896,Colombo Lilac Ranch,30300 Arrastre Canyon Road,-118.19898681000,34.44418184000,Nursery,,Nursery Database,Verified,null,,,,Acton,CA,93510
+897,Epworth Community Garden,1419 W. 65th Street,-118.30074157000,33.98062804000,Community Garden,,Community Garden Database,Verified,null,Ishimine Caldwell 213-743-6193 icaldwell@coalitionrcd.org,,,Los Angeles,CA,90044
+898,Colombo Lilac Ranch,3635 Sierra Highway,-118.19518236000,34.49334822000,Nursery,,Nursery Database,Verified,null,,,,Acton,CA,93510
+899,Erika J. Glazer Community Garden,2632 Raymond Avenue,-118.29801622000,34.03170075000,Community Garden,,Community Garden Database,Verified,null,Julie Burleigh (MG) 323-633-4118 jburleigh13@mac.com,,,Los Angeles,CA,90007
+900,Aroma Orchids Of Rowland Heights,2043 Desire Avenue,-117.89430910000,33.98155890000,Nursery,,Nursery Database,Verified,null,,,,Rowland Heights,CA,91748
+901,The Tropics,7056 Santa Monica Boulevard,-118.34312886000,34.09068307000,Nursery,,Nursery Database,Verified,null,,,,Los Angeles,CA,90038
+902,CJ's Organic Farm,10050 East Ave S-8,-117.94966899000,34.55011256000,Farm,,Certified Producers List,Verified,null,,,,Littlerock,CA,93543
+903,St. Anthony Parish School,855 East 5th Street,-118.18102595000,33.77297737000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90802
+904,Plants & Fruit Trees by Ramos,8406 Pico Vista,-118.09024677000,33.95707451000,Farm,,Certified Producers List,Verified,null,,,,Pico Rivera,CA,90660
+905,Santee Education Complex,1921 South Maple Avenue,-118.26162764000,34.02940683000,School Garden,Middle School,AHA - Randy Ryan,Verified,null,,,,┬áLos Angeles,CA,90011
+906,Wilmington Park Elementary School,1140 Mahar Avenue,-118.24648624000,33.78665358000,School Garden,Elementary,AHA,Verified,null,,,,Los Angeles,CA,90744
+907,Paula's Ranch,1847 El Tarvesia Dr.,-117.96095239000,33.95840350000,Farm,,Certified Producers List,Verified,null,,,,La Habra Heights,CA,90631
+908,Colin Powell Academy,150 W. Victoria St,-118.20364354000,33.86482026000,School Garden,K-8,AHA,Verified,null,,,,Long Beach,CA,90805
+909,Bethune Middle School,155 West 69th Street,-118.27605899000,33.97738750000,School Garden,Middle School,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90003
+910,Elysian Valley Community Garden,1816 Blake Avenue,-118.24296637000,34.09722514000,Community Garden,,Community Garden Database,Verified,null,Cyndi Hubach 323-660-9633 elysianvalleygarden@gmail.com,,,Los Angeles,CA,90039
+911,96Th Street Elementary,1471 E. 96th Street,-118.24860865000,33.94907817000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,┬áLos Angeles,CA,90002
+912,Empowerment Community Garden,Across from 10500 S. Yukon Avenue,-118.33516473000,33.93986270000,Community Garden,,Community Garden Database,Verified,null,323-952-3466 info@sjli-cp.org,,,Inglewood,CA,90303
+913,Coiner Nursery,3000 B Street,-117.77136676000,34.10883443000,Nursery,,Nursery Database,Verified,null,,,,La Verne,CA,91750
+914,Enrique Noguera Educational Garden,6614 Fountain Avenue,-118.33371449000,34.09435535000,Community Garden,,Community Garden Database,Verified,null,"Renee Voelker 323-465-1320, Ext. 745 ms.renee@hollywoodschoolhouse.org",,,Los Angeles,CA,90038
+915,The Accelerated Schools-Aces 2,1010 E. 34th Street,-118.25778211000,34.01275276000,School Garden,Elementary,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90011
+916,,1553 W. 170th Street #A,-118.30405945000,33.87653852000,Farm,,Certified Producers List,Verified,null,,,,Gardena,CA,90247
+917,Longfellow Elementary School,3800 Olive Ave,-118.18267334000,33.82697369000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90897
+918,┬áMuir Middle School,5929 S. Vermont Avenue,-118.29151262000,33.98652052000,School Garden,Middle School,AHA - Randy Ryan,Verified,null,,,,Los Angeles,CA,90044
+919,Shalom Institute,34342 Mulholland Hwy,-118.89851680000,34.08726344000,Farm,,Certified Producers List,Verified,null,,,,Malibu,CA,90265
+920,Arcadia High School,180 Campus Drive,-118.03633942000,34.13072336000,School Garden,High,Site Survey,Verified,null,,,,Arcadia,CA,91007
+921,,725 S. 6th St.,-118.12941205000,34.08456059000,Farm,,Certified Producers List,Verified,null,,,,Alhambra,CA,91801
+922,The Seeds of Xanxadu,19301 Platt River Dr.,-117.88201286000,34.03370777000,Farm,,Certified Producers List,Verified,null,,,,Walnut,CA,91789
+923,Vincent Children'S Center,1024 W Workman Ave,-117.92750895000,34.07544273000,School Garden,Preschool/Headstart,Site Survey,Verified,null,,,,West Covina,CA,91790
+924,Los Angeles River At Sonia Sotomayor Learning Academies,2050 San Fernando Rd.,-118.23681460000,34.10177168000,Farm,,Site Survey,Verified,null,,,,Los Angeles 90065,CA,90065
+925,Moonwater Farm,544 W Raymond,-118.23308567000,33.88713637000,Farm,,Site Survey,Verified,null,,,,Compton,CA,90220
+926,Violet Perfection by Gini,1420 Oxford Ave,-117.72371072000,34.11021370000,Farm,,Certified Producers List,Verified,null,,,,Claremont,CA,91711
+927,Party Works- Monrovia Street Fair,9712 Alpaca St.,-118.05759928000,34.04888210000,Farm,,Certified Producers List,Verified,null,,,,El Monte,CA,91733
+928,Mt. San Antonio College/Matthew Pawlak,1100 Grand Ave,-117.84770218000,34.04315454000,Farm,,Certified Producers List,Verified,null,,,,Walnut,CA,91789
+929,Cubberley K-8 School,3200 Monogram St,-118.10269441000,33.81521144000,School Garden,K-8,AHA,Verified,null,,,,Long Beach,CA,90808
+930,Maggie's  Farm,6500 Cheesebro Rd.,-118.73774492000,34.16510854000,Farm,,Certified Producers List,Verified,null,,,,Agoura Hills,CA,91301
+931,Garfield Elementary School,2240 Baltic Avenue,-118.21326594000,33.79787951000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90810
+932,Mckinley Elementary School,6822 N. Paramount Blvd,-118.15992415000,33.87872893000,School Garden,Elementary,AHA,Verified,null,,,,Long Beach,CA,90805
+933,Tenerelli Farms,2470 Vista Del Monte,-118.16793397000,34.48356137000,Farm,,Certified Producers List,Verified,null,,,,Acton,CA,93510
+934,Balanos Family Sprouts,1311 W. 35th Pl.,-118.29786937000,34.02373791000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90007
+935,,1350 S. Halinor Ave,-117.96269951000,34.06783887000,Farm,,Certified Producers List,Verified,null,,,,West Covina,CA,91790
+936,Bonsai By Nate,2124 Madison Ave,-118.13696112000,34.18203656000,Farm,,Certified Producers List,Verified,null,,,,Altadena,CA,91001
+937,Madre Naturaleza,4704 Bell Place,-118.18267167000,33.97478373000,Farm,,Certified Producers List,Verified,null,,,,Bell,CA,90201
+938,Reedley St. Farm Crops,13531 Reedley St.,-118.44560849000,34.22701551000,Farm,,Certified Producers List,Verified,null,,,,Panorama City,CA,91402
+939,C-Star Nursery,17654 S. Normandie Ave,-118.29899333000,33.87103314000,Farm,,Certified Producers List,Verified,null,,,,Gardena,CA,90248
+940,Graystone Mansion Demonstration Garden,501 Doheny Rd.,-118.40069274000,34.09078098000,Farm,,Certified Producers List,Verified,null,,,,Beverly Hills,CA,90210
+941,Aunt Willis Apiary,2200 Ardsheal Dr.,-117.96143725000,33.96292572000,Farm,,Certified Producers List,Verified,null,,,,La Habra Heights,CA,90631
+942,Sproutime,8922 Norris Ave.,-118.45758746000,34.26542055000,Farm,,Certified Producers List,Verified,null,,,,Simi Valley,CA,91345
+943,Tran Nurseries,3612 Marybeth Ave,-118.06117666000,34.07495321000,Farm,,Certified Producers List,Verified,null,,,,Rosemead,CA,91770
+944,Get Planted,10297 Cheviot Dr.,-118.40813046000,34.03729585000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90064
+945,Backyard Grown Farms,31094 San Martinez Rd.,-118.67784417000,34.44924376000,Farm,,Certified Producers List,Verified,null,,,,Val Verde,CA,91384
+946,Family Farmers Market,732 Ridgeside Dr.,-117.99583176000,34.16628572000,Farm,,Certified Producers List,Verified,null,,,,Monrovia,CA,91016
+947,Lehmann Farm,3253 E Ave H-4,-118.07261127000,34.71548008000,Farm,,Certified Producers List,Verified,null,,,,Lancaster,CA,93335
+948,Salazar Ranch,7812 Pearblossom Hwy,-117.98977921000,34.52105264000,Farm,,Certified Producers List,Verified,null,,,,Little Rock,CA,93543
+949,,397 E. Las Flores Dr.,-118.13726066000,34.19694706000,Farm,,Certified Producers List,Verified,null,,,,Altadena,CA,91001
+950,Bee Canyon Ranch,7815 Chatfield Ave,-118.06057991000,33.97222075000,Farm,,Certified Producers List,Verified,null,,,,Whittier,CA,90606
+951,Living Lettuce Farms,19161 Keswick St.,-118.55053311000,34.21019916000,Farm,,Certified Producers List,Verified,null,,,,Reseda,CA,91337
+952,Weiss Farms,16835 S. Budlong Ave,-118.29508261000,33.87782991000,Farm,,Certified Producers List,Verified,null,,,,Gardena,CA,90247
+953,Harry'S Honey/Lsg Honey,21123 Chase St,-118.59365979000,34.22458854000,Farm,,Certified Producers List,Verified,null,,,,Canoga Park,CA,91304
+954,Eliot Middle School,2184 N. Lake Ave,-118.13158739000,34.18341530000,Farm,,Certified Producers List,Verified,null,,,,Altadena,CA,91801
+955,Marcel's,5133 Kildee St.,-118.13316426000,33.81670599000,Farm,,Certified Producers List,Verified,null,,,,Long Beach,CA,90808
+956,Manna Ges Farm,36126 82nd St.,-117.98369893000,34.53784951000,Farm,,Certified Producers List,Verified,null,,,,East Little Rock,CA,93543
+957,Garibaldo Nursery,8834 Rose St.,-118.14349582000,33.86953874000,Farm,,Certified Producers List,Verified,null,,,,Bellflower,CA,90706
+958,,1438 W. 122nd St.,-118.30163983000,33.92208356000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90047
+959,Penjing Nursery,11130 Daneswood Dr.,-118.02784510000,34.10570313000,Farm,,Certified Producers List,Verified,null,,,,Arcadia,CA,91006
+960,Lin's Orchids,14339 Osborne St.,-118.44515968000,34.23318775000,Farm,,Certified Producers List,Verified,null,,,,Panorama City,CA,91402
+961,AJ Nursery,1600 S. Wilmington Ave,-118.23651855000,33.88064574000,Farm,,Certified Producers List,Verified,null,,,,Compton,CA,90220
+962,Arlington Garden in Pasadena,295 Arlington Dr.,-118.15673884000,34.12831773000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91105
+963,Silvia Organic Farm,8238 W. Ave E-12,-118.27837954000,34.75098300000,Farm,,Certified Producers List,Verified,null,,,,Lancaster,CA,93536
+964,,1114 N. Tonopah Ave.,-117.96253422000,34.04931934000,Farm,,Certified Producers List,Verified,null,,,,La Puente,CA,91744
+965,Youngblood Farms,77th & Ave U,-117.99251814000,34.52828319000,Farm,,Certified Producers List,Verified,null,,,,Little Rock,CA,93543
+966,First Earth,3601 Stewart Ave.,-118.44046146000,34.00596839000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90066
+967,The Kendor Farm,17344 Vanowen St.,-118.51143000000,34.19384328000,Farm,,Certified Producers List,Verified,null,,,,Van Nuys,CA,91406
+968,The Real Aloe Vera,1866 W. 94th Place,-118.31070991000,33.95048263000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90047
+969,Tapia Brothers Inc.,5240 Hayvenburst,-118.48881827000,34.14921105000,Farm,,Certified Producers List,Verified,null,,,,Encino,CA,91436
+970,,2137 E. Huntington Dr.,-117.95883810000,34.13981068000,Farm,,Certified Producers List,Verified,null,,,,Duarte,CA,91010
+971,Glady's Avenue Urban Farm,345 Bay Shore Ave,-118.12534438000,33.76043753000,Farm,,Certified Producers List,Verified,null,,,,Long Beach,CA,90803
+972,Green Girl Farms,602 W. 39th St.,-118.28993917000,33.70876768000,Farm,,Certified Producers List,Verified,null,,,,San Pedro,CA,90731
+973,"Roots Brothers Growers, LLC",6537 Valjean Ave.,-118.48590277000,34.18969053000,Farm,,Certified Producers List,Verified,null,,,,Van Nuys,CA,91406
+974,Fairplex,1101 W. MCKinley Ave.,-117.76671750000,34.08105040000,Farm,,Certified Producers List,Verified,null,,,,Pomona,CA,91768
+975,Muir Ranch,1905 N. Lincoln Ave.,-118.15968879000,34.17861040000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91103
+976,Home Grown,6203 Saylin Ln,-118.18268798000,34.12249479000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90042
+977,Little Farm Fresh,133 N. Santa Anita St.,-118.10549790000,34.10357489000,Farm,,Certified Producers List,Verified,null,,,,San Gabriel,CA,91775
+978,Winner Circle Farms,2034 W. Ave. M-4,-118.16683924000,34.64207328000,Farm,,Certified Producers List,Verified,null,,,,Palmdale,CA,93551
+979,Canhon Meadow Farms,16274 Vasqueiz Canyon Rd. #2,-118.42160218000,34.45633246000,Farm,,Certified Producers List,Verified,null,,,,Canyon Country,CA,91351
+980,Scarborough Farms,PO Box 1267,-119.17852026000,34.19966355000,Farm,,Certified Producers List,Rejected,null,,,,Oxnard,CA,93032
+981,,3021 Central Ave.,-118.04690069000,34.06305362000,Farm,,Certified Producers List,Verified,null,,,,El Monte,CA,91733
+982,Captian Cactus,1535 Ohio Ave.,-118.16010253000,33.78675149000,Farm,,Certified Producers List,Verified,null,,,,Long Beach,CA,90804
+983,Productos Ornelas,6208 Clara St.,-118.15599174000,33.96217279000,Farm,,Certified Producers List,Verified,null,,,,Bell Gardens,CA,90201
+984,,1544 Turnbull Canyon Rd.,-117.98045271000,34.00696491000,Farm,,Certified Producers List,Verified,null,,,,Hacienda Heights,CA,91745
+985,Energy Bee Farm,6951 S. Sepulveda Blvd,-118.39420196000,33.97638165000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90045
+986,,1324 Citrus St.,-117.95783929000,33.94968308000,Farm,,Certified Producers List,Verified,null,,,,La Habra,CA,90631
+987,"Gonzalez, Federico",1007 Worcester Ave.,-118.14503235000,34.16315979000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91104
+988,Yasutomi Farms,9941 La Docena Lane,-118.08968277000,33.95894101000,Farm,,Certified Producers List,Verified,null,,,,Pico Rivera,CA,90660
+989,Av Homestead Lavender,20538 E Ave Q-12,-117.76300974000,34.57620273000,Farm,,Certified Producers List,Verified,null,,,,Palmdale,CA,93591
+990,Bill's Bees Inc,12640 N. Little Tujunga Canyon Rd.,-118.35726323000,34.29538217000,Farm,,Certified Producers List,Verified,null,,,,Lakeview Terrace,CA,91342
+991,Klausebees,Lane Ranch @90th & Ave N. West,-118.33729366000,34.12376155000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90068
+992,Newport Acre,P O Box 30118,-118.13633969000,33.76079280000,Farm,,Certified Producers List,Verified,null,,,,Long Beach,CA,90853
+993,Spade and Seeds,1038  Montrose Ave. S.,-118.14271788000,34.11503337000,Farm,,Certified Producers List,Verified,null,,,,Pasadena,CA,91030
+994,Pelis' Apriaries,9225 Birdvale Dr.,-118.13758584000,33.90988755000,Farm,,Certified Producers List,Verified,null,,,,Downey,CA,90242
+995,Robin's Hot Items,1705 W. 59th Place,-118.30701987000,33.98673847000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90047
+996,T & A Farms,1600 Cliff Dr.,-118.22860016000,34.10046412000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90065
+997,Kowalke Family Sprouts,8228 Phlox St.,-118.13609281000,33.93915493000,Farm,,Certified Producers List,Verified,null,,,,Downey,CA,90241
+998,N. K. Orchids,13533 Terra Bella St.,-118.42762792000,34.25153304000,Farm,,Certified Producers List,Verified,null,,,,Arcadia,CA,91331
+999,La Funghi,334 S. Main St. #5012,-118.24681725000,34.04850988000,Farm,,Certified Producers List,Verified,null,,,,Los Angeles,CA,90013
+1000,Chen's Choice,1011 Cerise Ave.,-118.33324152000,33.83783377000,Farm,,Certified Producers List,Verified,null,,,,Torrance,CA,90502
+1001,Greenshower Natural Inc,2126 Desire Ave,-117.89374849000,33.98023137000,Farm,,Certified Producers List,Verified,null,,,,Rowland Heights,CA,91748
+1002,Barcal Groves LLC,1301 East Rd.,-117.93764548000,33.96052825000,Farm,,Certified Producers List,Verified,null,,,,La Habra Heights,CA,90631
+1003,Roger Evans,1228 S. Evanwood Ave.,-117.94424000000,34.05849839000,Farm,,Certified Producers List,Verified,null,,,,West Covina,CA,91790
+1004,test,test,-118.73317608000,34.29067005000,Farm,,Certified Producers List,Rejected,null,,,,test,test,test
+1005,,test,-118.41950473000,33.92285854000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1006,,test,-117.97144208000,34.09127049000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1007,Fruit Industries,3801 W. Temple Ave.,-117.81660180000,34.05030359000,Farm,,Certified Producers List,Verified,null,,,,Pomona,CA,91768
+1008,Omma's Garden,test,-118.79911562000,34.02643871000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1009,Ragan Family Trust/Alchemy Orchards,626 S. Sunset Canyon Dr.,-118.29064664000,34.18841545000,Farm,,Certified Producers List,Verified,null,,,,Burbank,CA,91501
+1010,M & M Peach,48745 Three Pts Rd.,-118.39352062000,34.66211835000,Farm,,Certified Producers List,Verified,null,,,,Lake Hughes,CA,93532
+1011,The Valley Hive,9633 Baden Ave.,-118.61915206000,34.24585113000,Farm,,Certified Producers List,Verified,null,,,,Chatsworth,CA,91311
+1012,Herb & Flore,test,-118.10804223000,34.09205139000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1013,AZ-Ranch,test,-118.79965287000,34.11702499000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1014,Orchid Garden,test,-118.35388372000,33.86550785000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1015,Mona Lisa's,test,-117.85664260000,33.99491392000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1016,Sunshine Sprouts,test,-118.18899228000,33.94088456000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1017,Home Grown Gardens,test,-118.45008517000,33.99866990000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1018,Banana People,test,-118.43722598000,34.02634984000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1019,Environmental Arts,test,-118.28417302000,33.89471494000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1020,M and G Gallo Nursery,test,-118.07070470000,34.13394242000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1021,,test,-117.92074777000,34.08150110000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1022,One Gun Ranch,test,-118.65323770000,34.05914759000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1023,Garden School Foundation,test,-118.31328464000,34.03586259000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1024,Holland Ranch,test,-118.17877650000,34.63435054000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1025,Calscape Growers,test,-118.08503906000,34.18028804000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1026,Torres Garden,test,-117.98898899000,34.12599951000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1027,Farm Lot 59,test,-118.18067280000,33.80649877000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1028,House of Plants,test,-118.32241406000,33.82089774000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1029,South Central Coop,test,-118.59279148000,34.76502053000,Farm,,Certified Producers List,Verified,null,,,,test,test,test
+1030,Episcopal Church of the Transfiguration,1881 South First Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Arcadia,CA,91006
+1031,St. Martin in the Fields Episcopal Church,7136 Winnetka Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Canoga Park,CA,91306
+1032,St. Timothy's Episcopal Church,312-A South Oleander Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Compton,CA,90220
+1033,St. Mark's Episcopal Church,10354 South Downey Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Downey,CA,90241
+1034,Immanuel Episcopal Church,4366 Santa Anita Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,El Monte,CA,91731
+1035,St. Michael the Archangel Episcopal Church,361 Richmond Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,El Segundo,CA,90245
+1036,Episcopal Church of the Holy Communion,1160 West 141st Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Gardena,CA,90247
+1037,St. Mark's Episcopal Church,1020 N Brand Blvd∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Glendale,CA,91202
+1038,St. George's Episcopal Church,4679 West El Segundo Boulevard,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Hawthorne,CA,90251
+1039,St. Cross Episcopal Church,1818 Monterey Boulevard,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Hermosa Beach,CA,90254
+1040,St. Clement's Episcopal Church,6909 Rugby Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Huntington Park,CA,90255
+1041,St. Luke's of the Mountains Episcopal Church,2563 Foothill Blvd.,0.00000000000,0.00000000000,Farm,,,Verified,,,,,La Crescenta,CA,91214
+1042,St. John's Episcopal Church,4745 Wheeler Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,La Verne,CA,91750
+1043,St. Luke's Episcopal Church,525 East Seventh Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Long Beach,CA,90813
+1044,St. Thomas' Episcopal Church,5306 Arbor Road,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Long Beach,CA,90808
+1045,St. Philip the Evangelist Episcopal Church,2800 Stanford Ave∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90011
+1046,Episcopal Church of the Epiphany,2808 Altura St∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90031
+1047,Christ the Good Shephard Episcopal Church,3303 W Vernon Ave,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90008
+1048,St. James in the City Episcopal Church,3903 Wilshire Blvd.,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90010
+1049,St. John's Episcopal Cathedral,514 W Adams Blvd∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90007
+1050,All Saints Episcopal Church,5619 Monte Vista Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90042
+1051,St. Stephen's Episcopal Church,6128 Yucca Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90028
+1052,Episcopal Cathedral Center of St. Paul/St. Athanasius,840 Echo Park Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90026
+1053,St. Mary's Episcopal Church,961 S. Mariposa,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Los Angeles,CA,90006
+1054,St. Aidan's Episcopal Church,28211 E Pacific Coast Hwy,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Malibu,CA,90265
+1055,St. Luke the Physician Episcopal Church,122 South California Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Monrovia,CA,91016
+1056,St. Paul's Episcopal Church,242 East Alvarado Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Pomona,CA,91767
+1057,Christ Episcopal Church,408 South Broadway,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Redondo Beach,CA,90277
+1058,St. Simon's Episcopal Church,623 N Hagar St∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,San Fernando,CA,91340
+1059,St. Peter's Episcopal Church,1648 West Ninth Street,0.00000000000,0.00000000000,Farm,,,Verified,,,,,San Pedro,CA,90732
+1060,St. Stephens Episcopal Church,24901 Orchard Village Road,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Santa Clarita,CA,91355
+1061,Episcopal Church of the Ascension,25 East Laurel Avenue,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Sierra Madre,CA,91024
+1062,St. Mark's Episcopal Church,14646 Sherman Way,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Van Nuys,CA,91405
+1063,Episcopal Church of the Holy Nativity,6700 W 83rd St,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Westchester,CA,90045
+1064,Prince of Peace Episcopal Church,5700 Rudnick Ave∩┐╜,0.00000000000,0.00000000000,Farm,,,Verified,,,,,Woodland Hills,CA,91367
+1065,FOSTER Elementary school,"1620 N. Pannes Street, Compton 90221",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1066,93RD ST Elementary School,"330 E 93rd St. Los Angeles, CA 90003",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1067,Samuel GOMPERS Middle School,"234 East 112th Street, Los Angeles, CA 90061",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1068,VENICE BOYS AND GIRLS Club,"2232 Lincoln Blvd, Venice, CA, 90291",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1069,HILLCREST Elementary,"4041 Hillcrest Dr, Los Angeles, CA",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1070,SIXTH AVE ES,"3109 6th Avenue, Los Angeles, CA 90018",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1071,LULL Special Education Center Elementary School,"17551 Miranda Street, Encino, CA 91316",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1072,MENDEZ High School,"200 Plaza Del Sol E, Los Angeles, CA",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1073,YORK Elementary School,"11838 S. York Ave, Hawthorne, CA 90250",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1074,EUCALYPTUS Elementary,"12044 Eucalyptus Avenue, Hawthorne, CA 90250",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1075,WASHINGTON Elementary School,"4339 West 129th Street, Hawthorne, CA 90250",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1076,BUD CARSON Middle School,"13838 Yukon Ave, Hawthorne, CA 90250",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1077,COMPTON ELEMENTARY,"1515 E 104th St, Los Angeles, CA 90002",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1078,109TH ST Elementary School,"10915 McKinley Ave, Los Angeles, CA 90059",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1079,112TH ST Elementary School,"1265 E 112th St, Los Angeles, CA 90059",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1080,CARVER Elementary School,"5335 E. Pavo Street Long Beach, CA 90808",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1081,WATTS Learning Center Elementary School,"310 W. 95th street Los Angeles, CA 90003",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1082,TINCHER Elementary School,"1701 Petaluma Ave Long Beach, CA 90815",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1083,MANN Elementary School,257 Coronado Ave Long Beach CA 90808,0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1084,PETER BURNETT Elementary School,"5403 W. 138th Street Hawthorne, CA 90250",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1085,BARRY J. NIDORF JUVENILE HALL,"16350 Filbert St. Sylmar, CA 91342",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1086,WHALEY Middle School,"14401 south gibson street, compton, CA 90221",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1087,ANDERSON Elementary School,"2210 E 130th Street, compton, CA 90222",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1088,NEW HEIGHTS CHARTER K-2 School,"2202 w. martin luther king jr. blvd, Los Angeles, CA 90008",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1089,Aliance College Ready Middle Academy # 5,"211 S. Avenue 20 Los Angeles, CA 90031",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1090,WILLOWBROOK Middle School,"2601 north wilmington, compton, CA 90221",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1091,CAMINO NUEVO High School,"1215 W. Miramar St. Los Angeles, CA 90026",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1092,DENKER Elementary School,"1620 W. 162nd street Gardena, CA 90247",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1093,FRIES Elementary School,"1301 Fries Ave Wilmington, CA 90744",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1094,DOMINGUEZ High School,"15301 S San Jose Ave., Compton CA 90221",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1095,VICTORIA AVENUE Elementary School,"3320 Missouri Ave., South Gate, CA 90280",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1096,WHITE Middle school,"22102 Figueroa Street, Carson, CA 90745",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1097,PLUMMER Elementary School,"9340 Noble Ave, North Hills, CA 91343",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1098,NORTHRIDGE∩┐╜middle School,"17960 Chase Street, Northridge, CA 91325",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1099,135th ST. Elementary School,"801 W 135th Street, Gardena CA 90247",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1100,WOODCREST∩┐╜Elementary School,"1151 W 109th Street, Los Angeles CA 90044",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1101,GRAHAM Elementary School,"8407 South Fir Avenue Los Angeles, CA 90001",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1102,WINNETKA Elementary School,"8240 Winnetka Avenue, Winnetka, CA 91306",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1103,ROCKDALE Elementary School,"1303 yosemite dr, los angeles, ca 90041",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1104,BONITA Elementary School,"21929 Bonita Avenue, Carson, CA 90745",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1105,KENNEDY Elementary School,"4010 East Ramboz Dr Los Angeles, CA 90063",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1106,54TH STREET∩┐╜Elementary School,"5501 Eileen Avenue, Los Angeles, CA 90043",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1107,ELIZABETH Learning Center k-12,"4811 Elizabeth Street, Cudahy CA 90201",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1108,CASTLEBAY LANE CHARTER Elementary School,"19010 Castlebay Lane Porter Ranch, CA 91326",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1109,William JOHNSTON Community Day School High School,"2210 Taper Ave., San Pedro, CA 90731",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1110,MAPLE PRIMARY CENTER k-2,"3601 Maple Ave Los Angeles, CA 90011",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1111,MIDDLETON Elementary School,"6537 Malabar St., Huntington Park, CA 90255",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1112,HAMLIN CHARTER∩┐╜Elementary School,"22627 Hamlin Street West Hills, CA 91307",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1113,SERRANIA∩┐╜Elementary School,"8401 Serrania Ave Woodland Hills, CA 91364",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1114,RESEDA High School,"18230 Kittridge St., Reseda CA 91335",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1115,Community Magnet Elementary School,"11301 Bellagio Road, Los Angeles, CA 90049",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1116,Van Deene Elementary School,"826 W Javelin St., Torrance, CA 90502",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1117,Budlong Ave Elementary,"5940 S Budlong Ave, Los Angeles, CA 90044",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1118,Fullbright Avenue Elementary School,"6940 Fullbright Ave, Los Angeles, CA 91306",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1119,Hollywood High School,"1521 Highland Ave, Los Angeles, CA 90028",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1120,Harry Bridges Span School,"1235 Broad Ave, Wilmington, CA 90744",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1121,Richland Ave Elementary School,"11562 Richland Ave, Los Angeles, CA 90064",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1122,Para Los Ninos Gratts Primary Center,"474 Hartford Ave, Los Angeles, CA 90017",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1123,Centennial High School,"2606 N Central Ave, Compton, CA 90222",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1124,Arminta Elementary School,"11530 Strathern St, North Hollywood, CA 91605",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1125,Trinity Street Elementary School,"3736 Trinity St, Los Angeles, CA 90011",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+1126,Monroe High School,"9229 Haskell Ave, North Hills, CA 91343",0.00000000000,0.00000000000,School Garden,,,Verified,,,,,,,
+2327,"Uncommon Good, Site #1",379 S College Ave,0.00000000000,0.00000000000,Farm,,,Verified,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711
+2328,"Uncommon Good, Site #2",1111 N. Mountain Ave,0.00000000000,0.00000000000,Farm,,,Verified,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-3751
+2330,"Uncommon Good, Site #4",9633 Mills Ave.,0.00000000000,0.00000000000,Farm,,,Verified,,Nancy Mintie,www.uncommongood.org,,Montclair,CA,91763-2110
+2332,"Uncommon Good, Site #6",1552 Queens Court,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-3468
+2334,"Uncommon Good, Site #8",1570 S. Linden Street,0.00000000000,0.00000000000,,,,,,Nancy Mintie,www.uncommongood.org,,Pomona,CA,91766-5309
+2335,"Uncommon Good, Site #9",3227 Merrifield Ave.,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Pomona,CA,91767-1425
+2336,"Uncommon Good, Site #10",509 Richbrook Dr.,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Pomona,CA,91767-1539
+2337,"Uncommon Good, Site #11",3033 N. Towne Ave,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Pomona,CA,91767-1511
+2338,"Uncommon Good, Site #12",627 Sycamore Ave.,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-5555
+2339,"Uncommon Good, Site #13",1221 N. Harvard Ave.,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-3819
+2340,"Uncommon Good, Site #14",615 W. San Jose Ave.,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711
+2341,"Uncommon Good, Site #15","1601 N. Indian Hill Blvd.,",0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-2784
+2342,"Uncommon Good, Site #16",333 North College Way,0.00000000000,0.00000000000,Farm,,,,,Nancy Mintie,www.uncommongood.org,,Claremont,CA,91711-4429
+3527,John R. Wooden High School,18741 Elkwood Street,0.00000000000,0.00000000000,School Garden,High,,Verified,New Site,Karen Snook,kindredspiritscarefarm.org,Kindred Spirits Care Farm partners with John R. Wooden High School to grow 1/4 acre of organic veggies.,Reseda,CA,91335
+3927,GrowGood Farm,5600 MANSFIELD WAY,0.00000000000,0.00000000000,Farm,,,Verified,New Site,(323) 645-0215,https://www.grow-good.org/,,Bell,California,90201
